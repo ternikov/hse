@@ -1,0 +1,140 @@
+.midcenter {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
+.cent {
+   text-align:center;
+}
+
+.ind {
+   line-height: 0.4;
+}
+
+
+brr {
+    content: " " !important;
+    display: block !important;
+    margin:-30px;
+}
+
+.emphasized {
+   font-size: 1.3em;
+}
+
+.rmdtable tbody td {  /* Table  */
+  font-size: 0.9em;
+}
+
+.rmdtable tbody th {  /* Table  */
+  font-size: 1em;
+}
+
+.footer {
+    color: black;
+    background: #E8E8E8;
+    position: fixed;
+    top: 90%;
+    text-align:center;
+    width:100%;
+}
+
+.gdbar img {
+  width: 100% !important;
+  height: 150px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  text-align:center;
+  width: 100%;
+}
+
+/* заголовки типа ## */
+h2 { 
+ font-size:1.8em;
+ font-family: "Myriad Pro";
+ color:  #003399;
+ line-height: 1;
+ letter-spacing: 0.35px;
+}
+
+
+/*заголовок*/
+.title-slide hgroup h1 {
+  font-size: 55px;
+  text-align:center;
+  line-height: 1.4;
+  letter-spacing: 0px;
+  color: #515151;
+  margin-left: -1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  font-family: "Myriad Pro";
+}
+
+/* поле подзаголовок + поле дата-автор
+.title-slide hgroup {
+}
+*/
+
+/*строка автор дата */
+.title-slide hgroup p {
+  font-size: 22px;
+/*  color: #797979;*/
+  line-height: 1.3;
+  margin-top: 1em;
+  margin-right: 3em;
+color: #515151;
+  font-family: "Myriad Pro";
+}
+
+
+
+/*титульный (фон) */
+slides > slide.title-slide {
+/*
+лого сбоку вверху
+  background-image: url(https://www.hse.ru/data/2014/06/24/1310196796/logo_hse_cmyk.jpg);
+  background-position: 93.1% 4%;
+  background-repeat: no-repeat;
+  background-size: 300px;
+*/
+  background-image: url(https://www.hse.ru/data/2014/06/25/1309038576/logo_hse_cmyk_e.jpg);
+  background-position: 50.1% 15%;
+  background-repeat: no-repeat;
+  background-size: 400px;
+}
+
+slides > slide.backdrop {
+  background: white;
+}
+
+
+
+body slides > slide
+{
+  font-family: "Myriad Pro";
+}
+
+
+.prettyprint {
+  font-family: "DejaVu Sans Mono";
+}
+
+.prettyprint .com {
+  /* a comment */
+  color: green;
+  font-style: normal;
+}
+
+.prettyprint .lit {
+  /* a literal value */
+  color: blue;
+}
+
+.prettyprint .pln {
+/* color: #515151; */
+  color: navy;
+}
