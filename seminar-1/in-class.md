@@ -25,9 +25,11 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
-\[Google\]\([www.google.com](https://www.google.com)\)
 
 
+{% hint style="info" %}
+#### Sample Lab Tasks
 
-
+[Sample Lab](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Sample_Tasks_for_Lab1.ipynb)
+{% endhint %}
 
