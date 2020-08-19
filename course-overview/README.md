@@ -30,7 +30,9 @@ $$
 * $$O_{11}$$ - Final Project
 {% endhint %}
 
-
+{% hint style="info" %}
+[Slack](https://im2020workspace.slack.com)
+{% endhint %}
 
 
 
