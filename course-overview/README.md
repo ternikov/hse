@@ -4,7 +4,7 @@ description: Overview and important information
 
 # Course Overview
 
-Grading formula :
+## Grading formula
 
 $$
 \begin{aligned}
@@ -15,6 +15,8 @@ $$
 $$
 
 {% hint style="info" %}
+### Hints
+
  $$\forall i \in\{\overline{1;11}\}: O_i$$ is an integer grade from $$0$$ to $$10$$
 
 * $$O_{1..3}$$ - HomeWorks \(1st module\)
