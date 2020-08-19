@@ -1,0 +1,6 @@
+---
+description: Obligatory MOOC
+---
+
+# MOOC
+

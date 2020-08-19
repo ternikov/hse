@@ -1,22 +1,28 @@
 # Table of contents
 
 * [Preface](README.md)
-* [Timetable & Deadlines](timetable-and-deadlines.md)
+* [Course Overview](course-overview/README.md)
+  * [Timetable & Deadlines](course-overview/timetable-and-deadlines.md)
+  * [MOOC](course-overview/mooc.md)
+  * [Final Project](course-overview/final-project.md)
 
 ## Seminar 1
 
 * [1: In-Class](seminar-1/in-class.md)
-* [1: HomeTasks](seminar-1/hometasks.md)
+* [1: HomeTasks](seminar-1/hometasks/README.md)
+  * [HW1](seminar-1/hometasks/hw1.md)
 
 ## Seminar 2
 
 * [2: In-Class](seminar-2/in-class.md)
-* [2: HomeTasks](seminar-2/hometasks.md)
+* [2: HomeTasks](seminar-2/hometasks/README.md)
+  * [HW2](seminar-2/hometasks/hw2.md)
 
 ## Seminar 3
 
 * [3: In-Class](seminar-3/in-class.md)
-* [3: HomeTasks](seminar-3/hometasks.md)
+* [3: HomeTasks](seminar-3/hometasks/README.md)
+  * [HW3](seminar-3/hometasks/hw3.md)
 
 ## Seminar 4
 
@@ -35,17 +41,20 @@
 ## Seminar 7
 
 * [7: In-Class](seminar-7/untitled.md)
-* [7: HomeTasks](seminar-7/7-hometasks.md)
+* [7: HomeTasks](seminar-7/7-hometasks/README.md)
+  * [HW4](seminar-7/7-hometasks/hw4.md)
 
 ## Seminar 8
 
 * [8: In-Class](seminar-8/untitled.md)
-* [8: HomeTasks](seminar-8/8-hometasks.md)
+* [8: HomeTasks](seminar-8/8-hometasks/README.md)
+  * [HW5](seminar-8/8-hometasks/hw5.md)
 
 ## Seminar 9
 
 * [9: In-Class](seminar-9/untitled.md)
-* [9: HomeTasks](seminar-9/9-hometasks.md)
+* [9: HomeTasks](seminar-9/9-hometasks/README.md)
+  * [Big-HW](seminar-9/9-hometasks/big-hw.md)
 
 ## Seminar 10
 
@@ -54,12 +63,14 @@
 
 ## Seminar 11
 
-* [11: In-Class](seminar-11/untitled.md)
+* [11: In-Class](seminar-11/untitled/README.md)
+  * [LAB1](seminar-11/untitled/lab1.md)
 * [11: HomeTasks](seminar-11/11-hometasks.md)
 
 ## Seminar 12
 
-* [12: In-Class](seminar-12/untitled.md)
+* [12: In-Class](seminar-12/untitled/README.md)
+  * [LAB2](seminar-12/untitled/lab2.md)
 * [12: HomeTasks](seminar-12/12-hometasks.md)
 
 ## Seminar 13
