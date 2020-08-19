@@ -1,6 +1,6 @@
 # Timetable & Deadlines
 
-| \# | Topic | Assignment |
+| \# | Topic | Assignments due |
 | :--- | :--- | :--- |
 | 1 | [Intro](seminar-1/in-class.md) | - |
 | 2 | [Basics](seminar-2/in-class.md) | [hw1](seminar-2/hometasks.md) |
