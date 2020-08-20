@@ -1,5 +1,19 @@
 # Timetable & Deadlines
 
+{% hint style="info" %}
+### Books
+
+1.     \[**PIP**\] Parker, J.R. \(2016\). Python: An Introduction to Programming, Mercury Learning & Information \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+
+2.     \[**PDSH**\] Vanderplas, J.T. \(2016\). Python data science handbook: Essential tools for working with data. Sebastopol, CA: O’Reilly Media, Inc. \(Available from HSE [EBSCO Discovery Service](http://search.ebscohost.com/login.aspx?authtype=guest&custid=s4954272&groupid=main&profile=eds)\).
+
+3.     \[**PPD**\] Mueller, J.P. \(2018\). Beginning Programming with Python for Dummies, John Wiley & Sons, Incorporated \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+
+4.     \[**PDA**\] Cuesta, H. \(2016\). Practical Data Analysis, Packt Publishing, Limited \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+
+5.     \[**PWS**\] Seppe vanden Broucke, & Bart Baesens. \(2018\). Practical Web Scraping for Data Science : Best Practices and Examples with Python, Apress \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+{% endhint %}
+
 <table>
   <thead>
     <tr>
@@ -68,7 +82,8 @@
       </td>
       <td style="text-align:left"><a href="../seminar-6/untitled.md">Test</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Sample_Tasks_for_Lab1.ipynb">Sample</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
