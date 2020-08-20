@@ -31,8 +31,16 @@ $$
 {% endhint %}
 
 {% hint style="info" %}
+### Communication
+
 [Slack](https://im2020workspace.slack.com)
 {% endhint %}
 
+{% hint style="info" %}
+### Assignments
 
+Stepik Platform
+
+Github Classroom
+{% endhint %}
 
