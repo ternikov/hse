@@ -4,6 +4,10 @@ description: test1
 
 # 1: In-Class
 
+Working with numeric data \(dependencies\)
+
+Working with text data \(similarity of texts\)
+
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
