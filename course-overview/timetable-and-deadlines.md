@@ -129,7 +129,12 @@
       </td>
       <td style="text-align:left"><a href="../seminar-12/untitled/lab2.md">LAB2</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><a href="https://www.toptal.com/python/telegram-bot-tutorial-python">Tutorial</a>
+        </p>
+        <p><a href="https://github.com/eternnoir/pyTelegramBotAPI">Examples</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
