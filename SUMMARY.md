@@ -3,6 +3,7 @@
 * [Preface](README.md)
 * [Course Overview](course-overview/README.md)
   * [Timetable & Deadlines](course-overview/timetable-and-deadlines.md)
+  * [Check List](course-overview/check-list.md)
   * [MOOC](course-overview/mooc.md)
   * [Final Project](course-overview/final-project.md)
 
