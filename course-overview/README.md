@@ -33,14 +33,14 @@ $$
 {% hint style="info" %}
 ### Communication
 
-[Slack](https://im2020workspace.slack.com)
+![](../.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)\*\*\*\*
 {% endhint %}
 
 {% hint style="info" %}
 ### Assignments
 
-Stepik Platform
+![](../.gitbook/assets/stepik_logotype.png) **Stepik** Platform \(with [embedded](https://support.stepik.org/hc/en-us/articles/360000159913-Learners-data) plagiarism check\)
 
-Github Classroom
+![](../.gitbook/assets/25231.png) **Github Classroom** \(with [MOSS](https://theory.stanford.edu/~aiken/moss/) plagiarism check\)
 {% endhint %}
 
