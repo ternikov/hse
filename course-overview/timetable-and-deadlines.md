@@ -10,9 +10,9 @@
 3.     \[**PPD**\] Mueller, J.P. \(2018\). Beginning Programming with Python for Dummies, John Wiley & Sons, Incorporated \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
 
 4.     \[**PDA**\] Cuesta, H. \(2016\). Practical Data Analysis, Packt Publishing, Limited \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
-
-5.     \[**PWS**\] Seppe vanden Broucke, & Bart Baesens. \(2018\). Practical Web Scraping for Data Science : Best Practices and Examples with Python, Apress \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
 {% endhint %}
+
+
 
 <table>
   <thead>
