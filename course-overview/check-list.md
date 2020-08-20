@@ -5,4 +5,7 @@
 * [ ] Enter Slack conference with your `@edu.hse.ru`
 * [ ] Register on Coursera with your `@edu.hse.ru` and start MOOC
 * [ ] Read the first chapter \[PPD\]
+* [ ] Install Python 3 environment \(Anaconda with Jupyter Notebook is preferred\)
+
+
 
