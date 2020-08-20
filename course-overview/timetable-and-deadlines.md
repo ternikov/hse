@@ -24,13 +24,15 @@
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="../seminar-3/in-class.md">Lists &amp; Libraries</a>
+      </td>
       <td style="text-align:left"><a href="../seminar-2/hometasks/hw2.md">HW2</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="../seminar-4/in-class.md">Dictionaries &amp; Files</a>
+      </td>
       <td style="text-align:left"><a href="../seminar-3/hometasks/hw3.md">HW3</a>
       </td>
     </tr>
