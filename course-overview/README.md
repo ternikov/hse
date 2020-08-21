@@ -35,7 +35,7 @@ $$
 * $$O_{10}$$ - Big HomeWork \(2nd module\)
 * $$O_{11}$$ - Final Project
 
-$$O_{final}$$ is rounded with mathematical rules \(e.g. 6.49 is 7; 5.5 is 6\)
+$$O_{final}$$ is rounded with mathematical rules \(e.g. 6.49 is 7; 5.5 is 6\). The [BONUS](final-project.md) adds before rounding.\[ancor\]\(\#loyalty-program-bonus\)
 {% endhint %}
 
 {% hint style="info" %}
