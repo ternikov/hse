@@ -19,8 +19,8 @@
     <tr>
       <th style="text-align:left">#</th>
       <th style="text-align:left">Topic</th>
-      <th style="text-align:left">Grading Assignment</th>
-      <th style="text-align:left">Material</th>
+      <th style="text-align:left">Grading</th>
+      <th style="text-align:left">Materials</th>
     </tr>
   </thead>
   <tbody>
