@@ -4,6 +4,8 @@ description: Course outline and prerequisites
 
 # Preface
 
+Information Management course \(Fall 2020\) for [3rd-year](https://www.hse.ru/edu/courses/376727217) and [4th-year](https://www.hse.ru/edu/courses/376727214) students at HSE
+
 [Learning-by-doing](https://psycnet.apa.org/fulltext/2014-55719-001.html) philosophy
 
 During this practically oriented data analysis module students will learn how computer programs are used for running predictive models and analytics. The main principal is to explore existing data to build new knowledge, forecast future behavior, anticipate outcomes and trends. Explore theory and practice, and work with tools like Python to solve advanced data science problems in management sphere.
