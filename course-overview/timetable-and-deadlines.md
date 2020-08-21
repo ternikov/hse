@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left"><a href="../seminar-7/untitled.md">Numpy &amp; Pandas</a>
+      <td style="text-align:left"><a href="../seminar-7/untitled.md">NumPy &amp; Pandas</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
