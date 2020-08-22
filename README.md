@@ -22,14 +22,6 @@ During this practically oriented data analysis module students will learn how co
 ![](.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)\*\*\*\*
 {% endhint %}
 
-{% hint style="success" %}
-### Assignments
-
-![](.gitbook/assets/stepik_logotype.png) **Stepik** Platform \(with [embedded](https://support.stepik.org/hc/en-us/articles/360000159913-Learners-data) plagiarism check\)
-
-![](.gitbook/assets/25231.png) **Github Classroom** \(with [MOSS](https://theory.stanford.edu/~aiken/moss/) plagiarism check\)
-{% endhint %}
-
 {% hint style="warning" %}
 ### [Books](https://disk.hse.ru/index.php/s/ermES6X37F5E2pc)
 

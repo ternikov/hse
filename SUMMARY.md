@@ -4,7 +4,9 @@
 * [Course Overview](course-overview/README.md)
   * [Grading](course-overview/grading/README.md)
     * [HomeWork](course-overview/grading/homework.md)
+    * [LAB](course-overview/grading/lab.md)
     * [MOOC](course-overview/grading/mooc.md)
+    * [Test](course-overview/grading/test.md)
     * [Final Project](course-overview/grading/final-project.md)
   * [Timetable & Deadlines](course-overview/timetable-and-deadlines.md)
 
