@@ -2,10 +2,11 @@
 
 * [Preface](README.md)
 * [Course Overview](course-overview/README.md)
+  * [Grading](course-overview/grading/README.md)
+    * [MOOC](course-overview/grading/mooc.md)
+    * [Final Project](course-overview/grading/final-project.md)
   * [Timetable & Deadlines](course-overview/timetable-and-deadlines.md)
   * [Check List](course-overview/check-list.md)
-  * [MOOC](course-overview/mooc.md)
-  * [Final Project](course-overview/final-project.md)
 
 ## Seminar 1
 

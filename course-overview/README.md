@@ -4,12 +4,6 @@ description: 'Important information, Grading, Books'
 
 # Course Overview
 
-Each Seminar's structure \(except Test day\):
-
-1. Answering questions about Self-study content
-2. Additional \(basic and intermediate\) hints for Python programming
-3. Discussion of an applied tasks \(intermediate and advanced\) from real sector Data Analytics and interview questions
-
 ## Grading formula
 
 $$

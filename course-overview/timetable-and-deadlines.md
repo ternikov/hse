@@ -65,7 +65,7 @@ Following deadlines affect 5 HW and 1 Big-HW:
       <td style="text-align:left">5</td>
       <td style="text-align:left"><a href="../seminar-5/untitled.md">Python &amp; Excel</a>
       </td>
-      <td style="text-align:left"><a href="mooc.md">MOOC</a>
+      <td style="text-align:left"><a href="grading/mooc.md">MOOC</a>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 4</p>
@@ -151,7 +151,7 @@ Following deadlines affect 5 HW and 1 Big-HW:
       <td style="text-align:left">13</td>
       <td style="text-align:left"><a href="../seminar-13/untitled.md">Applied Data Analysis</a>
       </td>
-      <td style="text-align:left"><a href="final-project.md">Final Project</a>
+      <td style="text-align:left"><a href="grading/final-project.md">Final Project</a>
       </td>
       <td style="text-align:left">PDSH: Ch.5</td>
     </tr>
