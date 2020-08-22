@@ -68,7 +68,7 @@
       </td>
       <td style="text-align:left"><a href="../seminar-6/untitled.md">Test</a>
       </td>
-      <td style="text-align:left"><a href="https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Sample_Tasks_for_Lab1.ipynb">Sample</a>
+      <td style="text-align:left"><a href="../seminar-6/untitled.md">Sample</a>
       </td>
     </tr>
     <tr>
