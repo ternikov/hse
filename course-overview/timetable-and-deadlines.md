@@ -1,9 +1,5 @@
 # Timetable & Deadlines
 
-{% hint style="info" %}
-### 
-{% endhint %}
-
 {% hint style="warning" %}
 ### HomeWork Deadlines
 
