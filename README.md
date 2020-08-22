@@ -19,7 +19,7 @@ description: Course outline and prerequisites
 {% hint style="info" %}
 ### Online Communication \(only via\)
 
-[![](.gitbook/assets/slack-icon.png)](https://im2020workspace.slack.com) [**Slack**](https://im2020workspace.slack.com)\*\*\*\*
+![](.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)\*\*\*\*
 {% endhint %}
 
 {% hint style="warning" %}
