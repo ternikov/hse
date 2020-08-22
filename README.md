@@ -17,13 +17,13 @@ description: Course outline and prerequisites
 3. Discussion of an applied tasks \(intermediate and advanced\) from real sector Data Analytics and interview questions
 
 {% hint style="info" %}
-### Online Communication \(only via\)
+## Online Communication \(only via\)
 
-![](.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)\*\*\*\*
+![](.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)
 {% endhint %}
 
 {% hint style="warning" %}
-### [Books](https://disk.hse.ru/index.php/s/ermES6X37F5E2pc)
+## [Books](https://disk.hse.ru/index.php/s/ermES6X37F5E2pc)
 
 1. \[**PIP**\] Parker, J.R. \(2016\). Python: An Introduction to Programming, Mercury Learning & Information \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
 2. \[**PDSH**\] Vanderplas, J.T. \(2016\). Python data science handbook: Essential tools for working with data. Sebastopol, CA: O’Reilly Media, Inc. \(Available from HSE [EBSCO Discovery Service](http://search.ebscohost.com/login.aspx?authtype=guest&custid=s4954272&groupid=main&profile=eds)\).
@@ -31,5 +31,5 @@ description: Course outline and prerequisites
 4. \[**PDA**\] Cuesta, H. \(2016\). Practical Data Analysis, Packt Publishing, Limited \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
 {% endhint %}
 
-![](.gitbook/assets/88x31.png)[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/) 
+![](.gitbook/assets/88x31.png)[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/)
 
