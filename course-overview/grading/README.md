@@ -1,7 +1,5 @@
 # Grading
 
-
-
 {% hint style="danger" %}
 Google Tables with grades: 3-course, 4-course.
 {% endhint %}
