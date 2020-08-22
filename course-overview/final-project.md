@@ -19,7 +19,7 @@ Each group project is assessed within the following criteria \(each of 1 point\)
 
 The final grade for the Final Project is the sum of all points, according to provided criteria. Each group member of the certain group gets the same grade \(the Final Project grade\). Any kind of plagiarism is assessed as 0 \(zero\) points for the whole project.
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### Loyalty Program \(BONUS\)
 
 After the stage of submission, the best projects are transferred to public voting in Slack \(among the course participants\). Each group of two the most voted projects \(one from 3rd-course and one from 4th-course students\) gains one extra point \(1 point per the whole project-group \[precisely, each project-group participant gets 1 point divided by the number of project-group members\]\) that he/she can redistribute among all students \(from the same course\) in any proportion to their final grades \(before rounding\).
