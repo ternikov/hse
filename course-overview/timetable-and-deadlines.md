@@ -64,11 +64,11 @@
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left"><a href="../seminar-6/untitled.md">Test</a>
+      <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-6/untitled.md">Test</a>
+      <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-6/untitled.md">Sample</a>
+      <td style="text-align:left"><a href="../seminar-6/test.md">Sample</a>
       </td>
     </tr>
     <tr>

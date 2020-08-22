@@ -40,7 +40,7 @@
 
 ## Seminar 6
 
-* [Test Sample](seminar-6/untitled.md)
+* [Test Sample](seminar-6/test.md)
 
 ## Seminar 7
 
