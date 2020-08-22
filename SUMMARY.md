@@ -7,7 +7,6 @@
     * [MOOC](course-overview/grading/mooc.md)
     * [Final Project](course-overview/grading/final-project.md)
   * [Timetable & Deadlines](course-overview/timetable-and-deadlines.md)
-  * [Check List](course-overview/check-list.md)
 
 ## Seminar 1
 
