@@ -3,6 +3,7 @@
 * [Preface](README.md)
 * [Course Overview](course-overview/README.md)
   * [Grading](course-overview/grading/README.md)
+    * [HomeWork](course-overview/grading/homework.md)
     * [MOOC](course-overview/grading/mooc.md)
     * [Final Project](course-overview/grading/final-project.md)
   * [Timetable & Deadlines](course-overview/timetable-and-deadlines.md)
