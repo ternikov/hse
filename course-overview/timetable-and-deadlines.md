@@ -3,16 +3,21 @@
 {% hint style="info" %}
 ### Books
 
-1.     \[**PIP**\] Parker, J.R. \(2016\). Python: An Introduction to Programming, Mercury Learning & Information \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
-
-2.     \[**PDSH**\] Vanderplas, J.T. \(2016\). Python data science handbook: Essential tools for working with data. Sebastopol, CA: O’Reilly Media, Inc. \(Available from HSE [EBSCO Discovery Service](http://search.ebscohost.com/login.aspx?authtype=guest&custid=s4954272&groupid=main&profile=eds)\).
-
-3.     \[**PPD**\] Mueller, J.P. \(2018\). Beginning Programming with Python for Dummies, John Wiley & Sons, Incorporated \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
-
-4.     \[**PDA**\] Cuesta, H. \(2016\). Practical Data Analysis, Packt Publishing, Limited \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+1. \[**PIP**\] Parker, J.R. \(2016\). Python: An Introduction to Programming, Mercury Learning & Information \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+2. \[**PDSH**\] Vanderplas, J.T. \(2016\). Python data science handbook: Essential tools for working with data. Sebastopol, CA: O’Reilly Media, Inc. \(Available from HSE [EBSCO Discovery Service](http://search.ebscohost.com/login.aspx?authtype=guest&custid=s4954272&groupid=main&profile=eds)\).
+3. \[**PPD**\] Mueller, J.P. \(2018\). Beginning Programming with Python for Dummies, John Wiley & Sons, Incorporated \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
+4. \[**PDA**\] Cuesta, H. \(2016\). Practical Data Analysis, Packt Publishing, Limited \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
 {% endhint %}
 
+{% hint style="warning" %}
+### HomeWork Deadlines
 
+Following deadlines affect 5 HW and 1 Big-HW:
+
+1. **Hard** deadline \(0% penalty\): Sunday 23:59 of the current week
+2. **Soft** deadline \(25% penalty\): up to one week later than Hard Deadline
+3. **Fail** deadline \(100% penalty\): later than Soft deadline
+{% endhint %}
 
 <table>
   <thead>

@@ -21,7 +21,7 @@ Grade Assessment Criteria and Points
 * «Fail» \(2\) Student has finished the MOOC with progress not less than 15% and less than 25% 
 * «Fail» \(1\) Student has finished the MOOC with progress less than 15%
 
-The MOOC lasts for 4 weeks. Each student should register in the MOOC strictly within his/her corporate e-mail address \(ending on @edu.hse.ru or @hse.ru\) and your real First & Last names. The MOOC should be finished, and the progress should be submitted 7 days before the first day of the winter exam week \(or earlier\). The progress check and submission procedure are organized in LMS, where the student should attach both: 
+The MOOC lasts for 4 weeks. Each student should register in the MOOC strictly within his/her corporate e-mail address \(ending on `@edu.hse.ru` or `@hse.ru`\) and your real First & Last names. The progress check and submission procedure are organized in LMS, where the student should attach both: 
 
 1. The screenshot of the MOCC grade page with progress and percentage which is given for each assignment. Screenshot should also capture in the same moment the top bar of the Coursera site interface with your profile name \(real First and Last names\). 
 2. The \*.gif-file or small \(up to 10 seconds\) video-file where you capture the following path in real time in your account: your profile settings screen \(with name and e-mail\) -&gt; the screen with your courses -&gt; the screen with the MOOC -&gt; screen with grades of the MOOC \(all grades should be also visible: ensure the proper quality of the file\). 
