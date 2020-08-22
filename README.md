@@ -17,7 +17,7 @@ description: Course outline and prerequisites
 3. Discussion of an applied tasks \(intermediate and advanced\) from real sector Data Analytics and interview questions
 
 {% hint style="info" %}
-### Online Communication \(only\)
+### Online Communication \(only via\)
 
 ![](.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)\*\*\*\*
 {% endhint %}
