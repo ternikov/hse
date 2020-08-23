@@ -4,7 +4,7 @@ description: Obligatory MOOC
 
 # MOOC
 
-Coursera MOOC: “Python Programming: A Concise Introduction” available here: [https://www.coursera.org/learn/python-programming-introduction](https://www.coursera.org/learn/python-programming-introduction) \[hereinafter “MOOC”\]. 
+\*\*\*\*![](../../.gitbook/assets/images.png) **Coursera MOOC**: “Python Programming: A Concise Introduction” available here: [https://www.coursera.org/learn/python-programming-introduction](https://www.coursera.org/learn/python-programming-introduction) \[hereinafter “MOOC”\]. 
 
 Final progress \[hereinafter “progress”\] of the MOOC is based on 4 Programming Assignments \(each of 100%\) with the following weights: 27%, 31%, 27%, 15%. So, the student after finishing the course can get the progress in the interval from 0% to 100% including. 
 
