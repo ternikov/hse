@@ -44,12 +44,24 @@ description: Course outline and prerequisites
 {% hint style="success" %}
 ### Recommended Self-study material
 
-* ![](.gitbook/assets/images.png) [MOOC](course-overview/grading/mooc.md) \[**obligatory**\]
-* ![](.gitbook/assets/stepik_logotype.png) [Introduction to Python](https://stepik.org/course/238/) \(JetBrains\)
-* ![](.gitbook/assets/25231.png) [Geo-Python](https://geo-python.github.io/site/2019/index.html) \(University of Helsinki\)
-* ![](.gitbook/assets/25231.png) [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-* ![](.gitbook/assets/25231.png) [Data Science For All](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/) \(Cornell University and Berkeley University\)
+* **Lectures & Exercises**
+  * ![](.gitbook/assets/images.png) [MOOC](course-overview/grading/mooc.md) \[**obligatory**\]
+  * ![](.gitbook/assets/stepik_logotype.png) [Introduction to Python](https://stepik.org/course/238/) \(JetBrains\)
+  * ![](.gitbook/assets/25231.png) [Geo-Python](https://geo-python.github.io/site/2019/index.html) \(University of Helsinki\)
+  * ![](.gitbook/assets/25231.png) [Data Science For All](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/) \(Cornell University and Berkeley University\)
+* **Practice**
+  * ![](.gitbook/assets/l_54f85450af93f.jpg) [CheckIO](https://py.checkio.org/)
+  * ![](.gitbook/assets/stepik_logotype.png) [Adaptive Python](https://stepik.org/course/568/)
+  * ![](.gitbook/assets/25231.png) [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+  * [Python Exercises](https://www.w3resource.com/python-exercises/)
+  * [Practice Python](https://www.practicepython.org/)
+* **Advanced**
+  * [LeetCode](https://leetcode.com/) \(algorithms\)
+  * [https://mlcourse.ai/](https://mlcourse.ai/) \(Machine Learning\)
+  * ![](.gitbook/assets/25231.png) [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 {% endhint %}
+
+
 
 ![](.gitbook/assets/88x31.png)[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/)
 
