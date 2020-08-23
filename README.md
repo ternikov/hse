@@ -6,7 +6,9 @@ description: Course outline and prerequisites
 
 **Information Management** course \(Fall 2020\) for [3rd-year](https://www.hse.ru/edu/courses/376727217) and [4th-year](https://www.hse.ru/edu/courses/376727214) students at HSE
 
-**Education technologies**: [Learning-by-doing](https://psycnet.apa.org/fulltext/2014-55719-001.html) and [Flipped-Classroom](https://en.wikipedia.org/wiki/Flipped_classroom).
+**Course format**: Blended
+
+**Education technologies**: [Learning-by-doing](https://psycnet.apa.org/fulltext/2014-55719-001.html) and [Flipped-Classroom](https://en.wikipedia.org/wiki/Flipped_classroom)
 
 **Overview**: During this practically oriented data analysis module students will learn how computer programs are used for running predictive models and analytics. The main principal is to explore existing data to build new knowledge, forecast future behavior, anticipate outcomes and trends. Explore theory and practice, and work with tools like Python to solve advanced data science problems in management sphere.
 
@@ -16,11 +18,7 @@ description: Course outline and prerequisites
 2. Additional \(basic and intermediate\) hints for Python programming
 3. Discussion of an applied tasks \(intermediate and advanced\) from real sector Data Analytics and interview questions
 
-{% hint style="info" %}
-## Online Communication \(only via\)
-
-![](.gitbook/assets/slack-icon.png) [**Slack**](https://im2020workspace.slack.com)
-{% endhint %}
+**Online communication:** only provided via ![](.gitbook/assets/slack-icon.png)[**Slack**](https://im2020workspace.slack.com/) conference \(sign-in with your `@edu.hse.ru`\). Some important info will be duplicated in LMS and send on your group e-mails.
 
 {% hint style="warning" %}
 ## [Books](https://disk.hse.ru/index.php/s/ermES6X37F5E2pc)
