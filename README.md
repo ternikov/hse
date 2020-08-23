@@ -29,5 +29,17 @@ description: Course outline and prerequisites
 4. \[**PDA**\] Cuesta, H. \(2016\). Practical Data Analysis, Packt Publishing, Limited \(Available from HSE [ProQuest Ebook Central](http://proxylibrary.hse.ru:2048/login?url=https://ebookcentral.proquest.com/lib/hselibrary-ebooks/home.action)\).
 {% endhint %}
 
+{% hint style="info" %}
+### Software \(Python 3 IDE\)
+
+* **Recommended**:
+  * **Jupyter Notebook** \[installed with [Anaconda](https://www.anaconda.com/products/individual)\]: for in-class activities
+  * **Spyder** \[installed with [Anaconda](https://www.anaconda.com/products/individual)\]: for MOOC and assignments
+* **Optional**:
+  * [**Google Colab**](https://colab.research.google.com/) \[online\]: sign-in with `@gmail.com`
+  * [**Repl.it**](https://repl.it/) \[online\]
+  * [**PyCharm**](https://www.jetbrains.com/pycharm/) \[offline\]
+{% endhint %}
+
 ![](.gitbook/assets/88x31.png)[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/)
 

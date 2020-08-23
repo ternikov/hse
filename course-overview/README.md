@@ -1,5 +1,5 @@
 ---
-description: 'Important information, Grading, Books'
+description: 'Important information, Grading, Deadlines'
 ---
 
 # Course Overview

@@ -1,7 +1,7 @@
 # Grading
 
 {% hint style="danger" %}
-Google Tables with grades: [LINK](https://docs.google.com/spreadsheets/d/19U2xBQY_7PF_rlZr0ikSxA1-meE3dKlIiwdwh-cCidk/edit?usp=sharing)
+**Google Tables with grades:** [**LINK**](https://docs.google.com/spreadsheets/d/19U2xBQY_7PF_rlZr0ikSxA1-meE3dKlIiwdwh-cCidk/edit?usp=sharing)\*\*\*\*
 {% endhint %}
 
 $$
