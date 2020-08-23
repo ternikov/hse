@@ -61,7 +61,5 @@ description: Course outline and prerequisites
   * ![](.gitbook/assets/25231.png) [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 {% endhint %}
 
-
-
 ![](.gitbook/assets/88x31.png)[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/)
 
