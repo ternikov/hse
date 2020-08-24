@@ -44,6 +44,7 @@ When you accept the assignment a copy of it will be made in your personal GitHub
 
 * More information, video-files and examples you can find in [Lesson 2 of 2017 Geo-Python MOOC](https://geo-python.github.io/site/2017/lessons/L2/overview.html)
 * Information about more advanced usage of version control you can find in [Lesson 2 of 2019 Geo-Python MOOC](https://geo-python.github.io/site/2019/lessons/L2/overview.html)
+* Code submission with [Repl.it](https://classroom.github.com/help/student-experience-replit)
 {% endhint %}
 
 
