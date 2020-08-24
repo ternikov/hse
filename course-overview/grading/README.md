@@ -27,6 +27,6 @@ $$
 * $$O_{10}$$ - Big HomeWork \(2nd module\)
 * $$O_{11}$$ - Final Project
 
-$$O_{final}$$ is rounded with mathematical rules \(e.g. 6.49 is 6; 5.5 is 6\). The [BONUS](https://ternikov.gitbook.io/im2020/course-overview/final-project#loyalty-program-bonus) adds before rounding.
+$$O_{final}$$ is rounded with mathematical rules \(e.g. 6.49 is 6; 5.5 is 6\). The [BONUS](https://ternikov.gitbook.io/im2020/course-overview/final-project#loyalty-program-bonus) adds before rounding. All grades are **NOT** blocking.
 {% endhint %}
 
