@@ -37,7 +37,7 @@ description: Course outline and prerequisites
   * **Spyder** \[installed with [Anaconda](https://www.anaconda.com/products/individual)\]: for MOOC and assignments
 * **Optional**:
   * [**Google Colab**](https://colab.research.google.com/) \[online\]: sign-in with `@gmail.com`
-  * [**Repl.it**](https://repl.it/) \[online\]
+  * [**Repl.it**](https://repl.it/) \[online\]: sign-in with your `@edu.hse.ru`
   * [**PyCharm**](https://www.jetbrains.com/pycharm/) \[offline\]
 {% endhint %}
 
