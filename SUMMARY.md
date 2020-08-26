@@ -13,7 +13,6 @@
 ## Seminar 1
 
 * [1: In-Class](seminar-1/in-class.md)
-* [index](seminar-1/untitled.md)
 * [1: HomeTasks](seminar-1/hometasks/README.md)
   * [HW1](seminar-1/hometasks/hw1.md)
 
