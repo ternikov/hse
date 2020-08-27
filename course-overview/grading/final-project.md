@@ -2,6 +2,10 @@
 
 Final Project is data-driven research project or app written on the basis of Python programming language. Each group should consist in the range from 1 to 5 students including. Each group of students decides themselves which type of project they prepare: research-based or app-based. The final submission includes: the file with the main steps of the research or practical implications in the form of the short report or presentation, the file with supported code and calculations. Each group submits such files in LMS. In case of late submission \(after deadline in LMS\) all group members get 0 \(zero\) points for the Final Project. 
 
+{% hint style="danger" %}
+**Google Table for your groups:** [**LINK**](https://docs.google.com/spreadsheets/d/1mxiCS9dekOfCO7cRpVhAdzVi6gfKM1hz8pyliJeXH1k/edit?usp=sharing)\*\*\*\*
+{% endhint %}
+
 Each group project is assessed within the following criteria \(each of 1 point\):
 
 | Criteria | Description \(1 point for\) |
