@@ -4,6 +4,8 @@ Final Project is data-driven research project or app written on the basis of Pyt
 
 {% hint style="danger" %}
 **Google Table for your groups:** [**LINK**](https://docs.google.com/spreadsheets/d/1mxiCS9dekOfCO7cRpVhAdzVi6gfKM1hz8pyliJeXH1k/edit?usp=sharing)\*\*\*\*
+
+**If you do not fill your name in the table before 31 October 23:59 - you should submit the project on the individual basis**
 {% endhint %}
 
 Each group project is assessed within the following criteria \(each of 1 point\):
