@@ -7,7 +7,7 @@ HomeWork consists of 10 exercises \(each of 1 point\). Student should submit the
 
 Following deadlines affect five HW and one Big-HW:
 
-1. **Hard** deadline \(0% penalty\): Sunday 23:59 of the current week
+1. **Hard** deadline \(0% penalty\): Sunday 23:59 of the next week
 2. **Soft** deadline \(25% penalty\): up to one week later than Hard Deadline
 3. **Fail** deadline \(100% penalty\): later than Soft deadline
 {% endhint %}
