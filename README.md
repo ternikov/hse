@@ -44,6 +44,8 @@ description: Course outline and prerequisites
 {% hint style="success" %}
 ### Recommended Self-study material
 
+* **General Questions and Answers about Code**
+  * \*\*\*\*![](.gitbook/assets/stack.png) ****[StackOverflow](https://stackoverflow.com/)
 * **Lectures & Exercises**
   * ![](.gitbook/assets/images.png) [MOOC](course-overview/grading/mooc.md) \[**obligatory**\]
   * ![](.gitbook/assets/stepik_logotype.png) [Introduction to Python](https://stepik.org/course/238/) \(JetBrains\)
