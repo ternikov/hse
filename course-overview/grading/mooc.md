@@ -1,5 +1,5 @@
 ---
-description: Obligatory MOOC
+description: 'Obligatory MOOC. Deadline: 11 October 23:59'
 ---
 
 # MOOC
