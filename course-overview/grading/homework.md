@@ -20,6 +20,10 @@ Following deadlines affect five HW and one Big-HW:
 ![](../../.gitbook/assets/25231.png) **GitHub Classroom** \(with [MOSS](https://theory.stanford.edu/~aiken/moss/) plagiarism check\)
 {% endhint %}
 
+## ![](../../.gitbook/assets/stepik_logotype.png) Sample Stepik Lesson
+
+The [link for Sample Stepik lesson](https://stepik.org/invitation/e99c8aa345ac47cdbeb0ac9c6437259834299fee/).
+
 ## ![](../../.gitbook/assets/25231.png) GitHub Classroom
 
 [Classroom for GitHub](https://github.com/education/classroom) is basically an application that helps you make private copies of an assignment that you can modify and submit as your answers for the exercises. The following template is created for a typical assignment:
