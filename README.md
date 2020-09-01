@@ -20,6 +20,8 @@ description: Course outline and prerequisites
 
 **Online communication:** only provided via ![](.gitbook/assets/slack-icon.png)[**Slack**](https://im2020workspace.slack.com/) conference \(sign-in with your `@edu.hse.ru`\). Some important info will be duplicated in LMS and send on your group e-mails.
 
+**Submission platforms**: LMS; Stepik; GitHub Classroom
+
 {% hint style="warning" %}
 ## [Books](https://disk.hse.ru/index.php/s/ermES6X37F5E2pc)
 
