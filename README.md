@@ -53,6 +53,7 @@ description: Course outline and prerequisites
   * ![](.gitbook/assets/stepik_logotype.png) [Introduction to Python](https://stepik.org/course/238/) \(JetBrains\)
   * ![](.gitbook/assets/25231.png) [Geo-Python](https://geo-python.github.io/site/2019/index.html) \(University of Helsinki\)
   * ![](.gitbook/assets/25231.png) [Data Science For All](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/) \(Cornell University and Berkeley University\)
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * **Practice**
   * ![](.gitbook/assets/l_54f85450af93f.jpg) [CheckIO](https://py.checkio.org/)
   * ![](.gitbook/assets/stepik_logotype.png) [Adaptive Python](https://stepik.org/course/568/)
