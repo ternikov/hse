@@ -102,7 +102,7 @@
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left"><a href="../seminar-10/untitled.md">Parsing Data form Web</a>
+      <td style="text-align:left"><a href="../seminar-10/untitled.md">Parsing Data from Web</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
