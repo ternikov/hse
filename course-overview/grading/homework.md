@@ -40,10 +40,10 @@ For each exercise, the special invitation link is published:`https://classroom.g
 When you click the link, you will be taken to a web page where you can accept the assignment
 
 {% hint style="info" %}
-**Note** that the first time you accept an assignment you will need to authorize the application on Github with your `@edu.hse.ru`. This will not work if you have not verified your email address for your Github account.
+**Note** that the first time you accept an assignment you will need to authorize the application on GitHub with your `@edu.hse.ru`. This will not work if you have not verified your email address for your Github account.
 {% endhint %}
 
-When you accept the assignment a copy of it will be made in your personal GitHub repositories \(a repository on Github is basically like a folder for a given assignment/project\), and you will be asked to make changes to the Python code and main document for each assignment.
+When you accept the assignment a copy of it will be made in your personal GitHub repositories \(a repository on GitHub is basically like a folder for a given assignment/project\), and you will be asked to make changes to the Python code and main document for each assignment.
 
 {% hint style="success" %}
 ### **Additional material**
