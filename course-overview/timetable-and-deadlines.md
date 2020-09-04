@@ -21,7 +21,10 @@
       <td style="text-align:left">2</td>
       <td style="text-align:left"><a href="../seminar-2/in-class.md">Python Basics</a> 
       </td>
-      <td style="text-align:left"><a href="../seminar-1/hometasks/hw1.md">HW1</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-1/hometasks/hw1.md">HW1</a> 
+        </p>
+        <p>(20 Sep.)</p>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 1</p>
@@ -33,7 +36,10 @@
       <td style="text-align:left">3</td>
       <td style="text-align:left"><a href="../seminar-3/in-class.md">Lists &amp; Libraries</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-2/hometasks/hw2.md">HW2</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-2/hometasks/hw2.md">HW2</a> 
+        </p>
+        <p>(27 Sep.)</p>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 2</p>
@@ -44,7 +50,10 @@
       <td style="text-align:left">4</td>
       <td style="text-align:left"><a href="../seminar-4/in-class.md">Dictionaries &amp; Files</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-3/hometasks/hw3.md">HW3</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-3/hometasks/hw3.md">HW3</a> 
+        </p>
+        <p>(4 Oct.)</p>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 3</p>
@@ -55,7 +64,10 @@
       <td style="text-align:left">5</td>
       <td style="text-align:left"><a href="../seminar-5/untitled.md">Python &amp; Excel</a>
       </td>
-      <td style="text-align:left"><a href="grading/mooc.md">MOOC</a>
+      <td style="text-align:left">
+        <p><a href="grading/mooc.md">MOOC</a> 
+        </p>
+        <p>(11 Oct.)</p>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 4</p>
@@ -75,7 +87,11 @@
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="../seminar-7/untitled.md">NumPy &amp; Pandas</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><a href="grading/final-project.md">Project Groups</a>
+        </p>
+        <p>(31 Oct.)</p>
+      </td>
       <td style="text-align:left">
         <p>PDSH: Ch.2-3</p>
         <p>PDA: Ch.1</p>
