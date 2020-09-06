@@ -61,7 +61,7 @@ For example, if the input is: \[45, 24, 35, 31, 40, 38, 11\] then your program s
 
 ### Task 4 \(additional\)
 
-> A vector X of 100 real numbers has a mean value of 14. A second vector Y of 100 real numbers has a mean value of 40. A third vector Z is constructed by picking 100 numbers from X or Y at random and multiplying each by 2. A forth vector W is constructed by picking the remaining 100 numbers of X and Y and multiplying each by 2. What is the sum of all elements in Z+W.
+> A vector X of 100 real numbers has a mean value of 14. A second vector Y of 100 real numbers has a mean value of 40. A third vector Z is constructed by picking 100 numbers from X or Y at random and multiplying each by 2. A forth vector W is constructed by picking the remaining 100 numbers of X and Y and multiplying each by 2. What is the sum of all elements in Z+W?
 >
 > **Source**: [WorldQuant Interview](https://www.worldquant.com/home/)
 
