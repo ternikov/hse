@@ -35,7 +35,7 @@ The [link for Sample GitHub Classroom assignment](https://classroom.github.com/a
 * Some _starter_ **Jupyter Notebook** or **Python code** that you need to modify for the assignment
 * Some data files to use with the code
 
-For each exercise, the special invitation link is published:`https://classroom.github.com/assignment-invitations/...`.
+For each exercise, the special invitation link is published:`https://classroom.github.com/assignment-invitations/...`
 
 When you click the link, you will be taken to a web page where you can accept the assignment
 
