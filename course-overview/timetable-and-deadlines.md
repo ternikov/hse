@@ -78,7 +78,10 @@
       <td style="text-align:left">6</td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-6/test.md">Test</a> 
+        </p>
+        <p>(on week 12-17 Oct.)</p>
       </td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Sample</a>
       </td>
@@ -157,7 +160,10 @@
       <td style="text-align:left">13</td>
       <td style="text-align:left"><a href="../seminar-13/untitled.md">Applied Data Analysis</a>
       </td>
-      <td style="text-align:left"><a href="grading/final-project.md">Final Project</a>
+      <td style="text-align:left">
+        <p><a href="grading/final-project.md">Final Project</a> 
+        </p>
+        <p>(19 Dec.)</p>
       </td>
       <td style="text-align:left">PDSH: Ch.5</td>
     </tr>
