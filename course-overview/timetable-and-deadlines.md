@@ -1,3 +1,7 @@
+---
+description: All deadlines in UTC+3 (Moscow timezone)
+---
+
 # Timetable & Deadlines
 
 <table>
