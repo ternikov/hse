@@ -1,6 +1,6 @@
 # HomeWork
 
-HomeWork consists of 10 exercises \(each of 1 point\). Student should submit their solutions in grading system. The system automatically detects plagiarism. In case of plagiarism - the particular exercise is assessed as 0 \(zero\) points.
+HomeWork consists of 10 exercises \(each of 1 point\). Students should submit their solutions in grading system. The system automatically detects plagiarism. In case of plagiarism - the particular exercise is assessed as 0 \(zero\) points.
 
 {% hint style="warning" %}
 ### HomeWork Deadlines
@@ -40,7 +40,7 @@ For each exercise, the special invitation link is published:`https://classroom.g
 When you click the link, you will be taken to a web page where you can accept the assignment
 
 {% hint style="info" %}
-**Note** that the first time you accept an assignment you will need to authorize the application on GitHub with your `@edu.hse.ru`. This will not work if you have not verified your email address for your Github account.
+**Note** that the first time you accept an assignment you will need to authorize the application on GitHub with your `@edu.hse.ru`. This will not work if you have not verified your email address for your GitHub account.
 {% endhint %}
 
 When you accept the assignment a copy of it will be made in your personal GitHub repositories \(a repository on GitHub is basically like a folder for a given assignment/project\), and you will be asked to make changes to the Python code and main document for each assignment.
