@@ -12,7 +12,8 @@
 
 ## Seminar 1
 
-* [1: In-Class](seminar-1/in-class.md)
+* [1: In-Class](seminar-1/in-class/README.md)
+  * [1: Solutions](seminar-1/in-class/1-solutions.md)
 * [1: HomeTasks](seminar-1/hometasks/README.md)
   * [HW1](seminar-1/hometasks/hw1.md)
 

@@ -16,7 +16,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left"><a href="../seminar-1/in-class.md">Intro</a>
+      <td style="text-align:left"><a href="../seminar-1/in-class/">Intro</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">PPD: Ch.1</td>
