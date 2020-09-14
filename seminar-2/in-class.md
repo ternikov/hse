@@ -31,5 +31,5 @@ The task is to combine and apply the following issues for solution of the text m
 ## Additional
 
 1. Perform TF-IDF and n-Grams analysis, using external libraries, for the above task.
-2. Solve tasks from [here](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Seminar02_additional.ipynb).
+2. Solve tasks from [here](https://raw.githubusercontent.com/ternikov/hse/gh-pages/Seminar02_additional.ipynb).
 
