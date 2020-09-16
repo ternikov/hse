@@ -7,7 +7,7 @@ description: Recommended HomeTasks (not assessed)
 {% hint style="info" %}
 ## Additional Material for Seminar
 
-\*\*\*\*[**Additional notes for Python basics**](https://raw.githubusercontent.com/ternikov/hse/gh-pages/Seminar02_IM.ipynb) **in Jupyter Notebook**
+\*\*\*\*[**Additional notes for Python basics**](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Seminar02_IM.ipynb) **in Jupyter Notebook**
 {% endhint %}
 
 {% hint style="success" %}
