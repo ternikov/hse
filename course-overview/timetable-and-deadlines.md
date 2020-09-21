@@ -23,7 +23,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left"><a href="../seminar-2/in-class.md">Python Basics</a> 
+      <td style="text-align:left"><a href="../seminar-2/in-class/">Python Basics</a> 
       </td>
       <td style="text-align:left">
         <p><a href="../seminar-1/hometasks/hw1.md">HW1</a> 

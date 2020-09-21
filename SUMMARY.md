@@ -19,7 +19,8 @@
 
 ## Seminar 2
 
-* [2: In-Class](seminar-2/in-class.md)
+* [2: In-Class](seminar-2/in-class/README.md)
+  * [2: Solutions](seminar-2/in-class/2-solutions.md)
 * [2: HomeTasks](seminar-2/hometasks/README.md)
   * [HW2](seminar-2/hometasks/hw2.md)
 
