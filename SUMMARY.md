@@ -26,7 +26,8 @@
 
 ## Seminar 3
 
-* [3: In-Class](seminar-3/in-class.md)
+* [3: In-Class](seminar-3/in-class/README.md)
+  * [3: Solutions](seminar-3/in-class/3-solutions.md)
 * [3: HomeTasks](seminar-3/hometasks/README.md)
   * [HW3](seminar-3/hometasks/hw3.md)
 

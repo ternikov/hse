@@ -38,7 +38,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left"><a href="../seminar-3/in-class.md">Lists &amp; Libraries</a>
+      <td style="text-align:left"><a href="../seminar-3/in-class/">Lists &amp; Libraries</a>
       </td>
       <td style="text-align:left">
         <p><a href="../seminar-2/hometasks/hw2.md">HW2</a> 

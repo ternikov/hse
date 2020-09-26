@@ -3,7 +3,7 @@
 ## Problem
 
 {% hint style="info" %}
-You can use [this starter code](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Seminar03_Problem.ipynb)
+You can use [this starter code](https://github.com/ternikov/hse/blob/gh-pages/Seminar03_Problem.ipynb)
 {% endhint %}
 
 > Suppose you have obtained headings of news from Financial world. The goal is to get several hot topics for specific period of time for the further analysis. Precisely, calculate words' frequencies for specified period.
