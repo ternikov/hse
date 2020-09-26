@@ -34,7 +34,6 @@
 ## Seminar 4
 
 * [4: In-Class](seminar-4/in-class.md)
-* [4: HomeTasks](seminar-4/4-hometasks.md)
 
 ## Seminar 5
 
