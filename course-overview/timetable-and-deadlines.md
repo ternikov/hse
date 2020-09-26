@@ -43,7 +43,9 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">
         <p><a href="../seminar-2/hometasks/hw2.md">HW2</a> 
         </p>
-        <p>(27 Sep.)</p>
+        <p>(<del>27 Sep.</del>
+        </p>
+        <p>4 Oct.)</p>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 2</p>
@@ -57,7 +59,9 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">
         <p><a href="../seminar-3/hometasks/hw3.md">HW3</a> 
         </p>
-        <p>(4 Oct.)</p>
+        <p>(<del>4 Oct.</del>
+        </p>
+        <p>11 Oct.)</p>
       </td>
       <td style="text-align:left">
         <p>MOOC: Week 3</p>
