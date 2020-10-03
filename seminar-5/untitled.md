@@ -4,6 +4,8 @@
 **Working with textual and numeric data**
 
 Dictionaries in real world \([`*.json` data format](https://en.wikipedia.org/wiki/JSON)\)
+
+**\(!\)** Solve the following problem and submit your results in LMS \(you can make this task in groups\)
 {% endhint %}
 
 ### Problem
