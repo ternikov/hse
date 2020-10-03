@@ -33,7 +33,8 @@
 
 ## Seminar 4
 
-* [4: In-Class](seminar-4/in-class.md)
+* [4: In-Class](seminar-4/in-class/README.md)
+  * [4: Solutions](seminar-4/in-class/4-solutions.md)
 
 ## Seminar 5
 

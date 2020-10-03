@@ -54,7 +54,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">4</td>
-      <td style="text-align:left"><a href="../seminar-4/in-class.md">Dictionaries &amp; Files</a>
+      <td style="text-align:left"><a href="../seminar-4/in-class/">Dictionaries &amp; Files</a>
       </td>
       <td style="text-align:left">
         <p><a href="../seminar-3/hometasks/hw3.md">HW3</a> 
