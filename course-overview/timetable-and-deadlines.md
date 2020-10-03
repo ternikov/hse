@@ -84,12 +84,14 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
+      <td style="text-align:left"><a href="../seminar-6/6-test-preparation.md">Preparation to Test</a>
       </td>
       <td style="text-align:left">
         <p><a href="../seminar-6/test.md">Test</a> 
         </p>
-        <p>(on week 12-17 Oct.)</p>
+        <p><del>(on week 12-17 Oct.)</del>
+        </p>
+        <p>(the end of October)</p>
       </td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Sample</a>
       </td>

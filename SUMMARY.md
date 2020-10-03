@@ -42,6 +42,7 @@
 
 ## Seminar 6
 
+* [6: Test Preparation](seminar-6/6-test-preparation.md)
 * [Test Sample](seminar-6/test.md)
 
 ## Seminar 7
