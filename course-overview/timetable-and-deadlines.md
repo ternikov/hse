@@ -91,7 +91,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
         </p>
         <p><del>(on week 12-17 Oct.)</del>
         </p>
-        <p>(the end of October)</p>
+        <p>(the end of October after session week)</p>
       </td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Sample</a>
       </td>
