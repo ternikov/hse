@@ -118,7 +118,7 @@ import cyrtranslit
 cyrtranslit.to_latin('Привет мир!', 'ru')
 ```
 
-If you are needed to extract particular skills that are required in particular vacancies, you can use the field `snippet` inside `vacancies`, and then, sub-filed `requirements`. Then, extract vacancies \(using `name` filed\) with at least one of words: `['менеджер', 'manager', 'menedzher']`. **Hint**: use `lower()` or `upper()` in order to extract such words in appropriate way.
+If you are needed to extract particular skills that are required in particular vacancies, you can use the field `snippet` inside `vacancies`, and then, sub-filed `requirement`. Then, extract vacancies \(using `name` filed\) with at least one of words: `['менеджер', 'manager', 'menedzher']`. **Hint**: use `lower()` or `upper()` in order to extract such words in appropriate way.
 
 Then, try to separate words with spaces in obtained list of vacancies \(e.g. `join` at first all texts in one line, **avoid** `None`\). And calculate the frequency table \([more details in previous Seminar](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Seminar03_Problem_sol.ipynb)\).
 
