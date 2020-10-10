@@ -38,7 +38,8 @@
 
 ## Seminar 5
 
-* [5: In-Class](seminar-5/untitled.md)
+* [5: In-Class](seminar-5/untitled/README.md)
+  * [5: Solutions](seminar-5/untitled/5-solutions.md)
 * [5: HomeTasks](seminar-5/5-hometasks.md)
 
 ## Seminar 6

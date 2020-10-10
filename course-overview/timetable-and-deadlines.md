@@ -70,7 +70,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left"><a href="../seminar-5/untitled.md">Python &amp; Excel</a>
+      <td style="text-align:left"><a href="../seminar-5/untitled/">Python &amp; Excel</a>
       </td>
       <td style="text-align:left">
         <p><a href="grading/mooc.md">MOOC</a> 
