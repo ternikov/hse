@@ -94,7 +94,7 @@ assert check_pass(' +e0P') == 1
 assert check_pass('F1+R)') == 0
 assert check_pass('F1+R(gb') == 1
 assert check_pass(' r 1 T * ') == 1
-assert check_pass('1**ML') == 1
+assert check_pass('1**ML') == 0
 ```
 
 ### Task 5
