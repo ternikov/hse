@@ -23,7 +23,7 @@ assert auto_number('E999TT00') == 0
 assert auto_number('WAS2107TT03') == 0
 assert auto_number('1') == 0
 assert auto_number('W111W11') == 0
-assert auto_number('F050LB05') == 1
+assert auto_number('F050LB005') == 1
 ```
 
 ### Task 2
