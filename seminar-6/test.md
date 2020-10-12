@@ -1,5 +1,7 @@
 ---
-description: to be announced
+description: >-
+  10 tasks in Stepik. Tasks are very close to HW tasks (both obligatory and
+  recommended content)
 ---
 
 # Test Sample
@@ -21,7 +23,7 @@ description: to be announced
 12. Printing output \(print\(\) function\)
 {% endhint %}
 
-Test consists of 10 computer exercises in Python \(each of 1 point\). Student should submit one file in Jupyter Notebook format \(\*.ipynb\) or native Python format \(\*.py\) with solutions.
+Test consists of 10 computer exercises in Python \(each of 1 point\). Student should submit their solutions in Stepik platform.
 
 Test lasts 60 minutes. The student gets an integer grade for each task of a Test. If the answer on the particular question in the Test is not full \(not all requirements of the task are done\), then the student gets 0 \(zero\) points for such a task/question. Moreover, the cheating is strongly prohibited during the Test \(use of mobile devices, the Internet/LAN connection, talking with the other students and looking at the other screen or paper\). In case of cheating - the student gets 0 \(zero\) points for the whole Test.
 
