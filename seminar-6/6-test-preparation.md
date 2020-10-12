@@ -129,7 +129,7 @@ with open('CSV.csv', mode = 'r') as infile:
 
 {% tab title="As dict \(2\)" %}
 ```python
-# As dictionary durectly from web
+# As dictionary directly from web
 import pandas as pd
 url = 'YOUR_LINK'
 data = pd.read_csv(url).to_dict()
