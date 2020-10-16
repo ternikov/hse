@@ -86,7 +86,7 @@ Your should start your recording before you will be given with the test tasks \(
 
 ## Sample Video Recording
 
-Pay attention, that MS Teams cuts-off you extra device camera \(as seen in sample video\): try to move your phone a bit farther.
+Pay attention, that MS Teams cuts-off your extra device camera \(as seen in sample video\): try to move your phone a bit farther.
 
 {% embed url="https://www.youtube.com/watch?v=GKcaNfcU5nE&feature=youtu.be" caption="Beta-Test from Michael" %}
 
