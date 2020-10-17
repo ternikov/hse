@@ -1,6 +1,6 @@
 # 6: Test Preparation
 
-Solve the tasks 1-4 with regular expressions \(library `re`\). For details: previous [Seminar HomeTasks](../seminar-5/5-hometasks.md).
+Solve the tasks 1-4 with regular expressions \(library `re`\). For details: previous [Seminar HomeTasks](../../seminar-5/5-hometasks.md).
 
 ### Task 1
 

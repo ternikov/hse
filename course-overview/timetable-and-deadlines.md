@@ -84,7 +84,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left"><a href="../seminar-6/6-test-preparation.md">Preparation to Test</a>
+      <td style="text-align:left"><a href="../seminar-6/6-test-preparation/">Preparation to Test</a>
       </td>
       <td style="text-align:left">
         <p><a href="../seminar-6/test.md">Test</a> 

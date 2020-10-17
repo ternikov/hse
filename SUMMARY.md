@@ -44,7 +44,8 @@
 
 ## Seminar 6
 
-* [6: Test Preparation](seminar-6/6-test-preparation.md)
+* [6: Test Preparation](seminar-6/6-test-preparation/README.md)
+  * [6: Solutions](seminar-6/6-test-preparation/6-solutions.md)
 * [Test Sample & Rules](seminar-6/test.md)
 
 ## Seminar 7
