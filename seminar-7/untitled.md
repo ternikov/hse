@@ -7,7 +7,7 @@
 
 **Find out the starter code file with descriptions** [**here**](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Seminar07.ipynb)**.**
 
-**In-class Task 1.** Find and collect data for your timetable, starting with [the link](https://spb.hse.ru/ba/management/timetable).
+**In-class Task 1.** Find and collect data for your timetable, starting with [the link](https://spb.hse.ru/en/ba/management/timetable).
 
 **In-class Task 2.** Find and collect data from [Exmo website](https://exmo.me/en/trade/BTC_USD).
 
