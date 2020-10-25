@@ -91,14 +91,14 @@ description: All deadlines in UTC+3 (Moscow timezone)
         </p>
         <p><del>(on week 12-17 Oct.)</del>
         </p>
-        <p>(the end of October after session week)</p>
+        <p>(31 Oct. or 07 Nov.)</p>
       </td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Sample</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left"><a href="../seminar-7/untitled.md">NumPy &amp; Pandas</a>
+      <td style="text-align:left"><a href="../seminar-7/untitled.md">Parsing Data from Web</a>
       </td>
       <td style="text-align:left">
         <p><a href="grading/final-project.md">Project Groups</a>
@@ -106,39 +106,39 @@ description: All deadlines in UTC+3 (Moscow timezone)
         <p>(31 Oct.)</p>
       </td>
       <td style="text-align:left">
+        <p><a href="https://www.datacamp.com/community/tutorials/web-scraping-using-python?utm_source=adwords_ppc&amp;utm_campaignid=1455363063&amp;utm_adgroupid=65083631748&amp;utm_device=c&amp;utm_keyword=&amp;utm_matchtype=b&amp;utm_network=g&amp;utm_adpostion=&amp;utm_creative=332602034364&amp;utm_targetid=dsa-429603003980&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=9047068&amp;gclid=EAIaIQobChMI9-bhpsup6wIVARd7Ch1HqQz1EAAYASAAEgLb7PD_BwE">Tutorial</a>
+        </p>
+        <p><a href="https://github.com/Macuyiko/webscrapingfordatascience">Examples</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left"><a href="../seminar-8/untitled.md">NumPy &amp; Pandas</a>
+      </td>
+      <td style="text-align:left"><a href="../seminar-7/7-hometasks/hw4.md">HW4</a>
+      </td>
+      <td style="text-align:left">
         <p>PDSH: Ch.2-3</p>
         <p>PDA: Ch.1</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8</td>
-      <td style="text-align:left"><a href="../seminar-8/untitled.md">Applied Statistics</a>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left"><a href="../seminar-9/untitled.md">Applied Statistics</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-7/7-hometasks/hw4.md">HW4</a>
+      <td style="text-align:left"><a href="../seminar-8/8-hometasks/hw5.md">HW5</a>
       </td>
       <td style="text-align:left">PDA: Ch.2</td>
     </tr>
     <tr>
-      <td style="text-align:left">9</td>
-      <td style="text-align:left"><a href="../seminar-9/untitled.md">Exploratory Data Analysis</a>
-      </td>
-      <td style="text-align:left"><a href="../seminar-8/8-hometasks/hw5.md">HW5</a>
-      </td>
-      <td style="text-align:left">
-        <p>PDSH: Ch.4</p>
-        <p>PDA: Ch.3</p>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left"><a href="../seminar-10/untitled.md">Parsing Data from Web</a>
+      <td style="text-align:left"><a href="../seminar-10/untitled.md">Exploratory Data Analysis</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p><a href="https://www.datacamp.com/community/tutorials/web-scraping-using-python?utm_source=adwords_ppc&amp;utm_campaignid=1455363063&amp;utm_adgroupid=65083631748&amp;utm_device=c&amp;utm_keyword=&amp;utm_matchtype=b&amp;utm_network=g&amp;utm_adpostion=&amp;utm_creative=332602034364&amp;utm_targetid=dsa-429603003980&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=9047068&amp;gclid=EAIaIQobChMI9-bhpsup6wIVARd7Ch1HqQz1EAAYASAAEgLb7PD_BwE">Tutorial</a>
-        </p>
-        <p><a href="https://github.com/Macuyiko/webscrapingfordatascience">Examples</a>
-        </p>
+        <p>PDSH: Ch.4</p>
+        <p>PDA: Ch.3</p>
       </td>
     </tr>
     <tr>
