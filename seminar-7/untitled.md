@@ -5,7 +5,7 @@
 * A [**Web crawler**](https://medium.com/@allisonmorgan/short-essay-on-web-crawling-scraping-8abf1b232b65), sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing \(web spidering\).
 * **Parsing**, syntax analysis, or syntactic analysis is the process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term parsing comes from Latin pars \(orationis\), meaning part \(of speech\).
 
-**Find out the starter code file with descriptions** [**here**](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/Seminar07.ipynb)**.**
+**Find out the starter code file with descriptions** [**here**](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/folder/Seminar07.ipynb)**.**
 
 **In-class Task 1.** Find and collect data for your timetable, starting with [the link](https://spb.hse.ru/en/ba/management/timetable).
 
