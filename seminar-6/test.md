@@ -1,5 +1,5 @@
 ---
-description: TEST DATE/TIME - TBA
+description: 'TEST DATE: 07 November. TIME - TBA'
 ---
 
 # Test Sample & Rules

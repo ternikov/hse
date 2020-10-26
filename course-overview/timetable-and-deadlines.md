@@ -87,11 +87,9 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left"><a href="../seminar-6/6-test-preparation/">Preparation to Test</a>
       </td>
       <td style="text-align:left">
-        <p><a href="../seminar-6/test.md">Test</a> 
+        <p><a href="grading/final-project.md">Project Groups</a>
         </p>
-        <p><del>(on week 12-17 Oct.)</del>
-        </p>
-        <p>(31 Oct. or 07 Nov.)</p>
+        <p>(31 Oct.)</p>
       </td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Sample</a>
       </td>
@@ -100,11 +98,8 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="../seminar-7/untitled.md">Parsing Data from Web</a>
       </td>
-      <td style="text-align:left">
-        <p><a href="grading/final-project.md">Project Groups</a>
-        </p>
-        <p>(31 Oct.)</p>
-      </td>
+      <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
+        <br />(07 Nov.)</td>
       <td style="text-align:left">
         <p><a href="https://www.datacamp.com/community/tutorials/web-scraping-using-python?utm_source=adwords_ppc&amp;utm_campaignid=1455363063&amp;utm_adgroupid=65083631748&amp;utm_device=c&amp;utm_keyword=&amp;utm_matchtype=b&amp;utm_network=g&amp;utm_adpostion=&amp;utm_creative=332602034364&amp;utm_targetid=dsa-429603003980&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=9047068&amp;gclid=EAIaIQobChMI9-bhpsup6wIVARd7Ch1HqQz1EAAYASAAEgLb7PD_BwE">Tutorial</a>
         </p>
