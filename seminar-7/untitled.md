@@ -19,11 +19,10 @@
 3. **Practical Web Scraping \[PWS\] \(available in HSE disk\)**
 4. \*\*\*\*[**Parsing Course**](https://proglib.io/p/parsing-course) \(in Russian: use translate webpage to English\)
 5. **Social Media Data Parsing:**
-   1. [Twitter1](https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf)
-   2. [Twitter2](https://www.toptal.com/python/twitter-data-mining-using-python)
-   3. [Facebook1](https://medium.com/@DrGabrielA81/python-how-getting-facebook-data-and-insights-using-facebook-sdk-9de14d3c12fb)
-   4. [Facebook2](https://www.kdnuggets.com/2017/06/6-interesting-things-facebook-python.html)
-   5. [vk1](https://habr.com/ru/post/319178/)
-   6. [vk2](https://proglib.io/p/python-vk-api-1/)
+   1. [Twitter](https://www.toptal.com/python/twitter-data-mining-using-python)
+   2. [Facebook1](https://medium.com/@DrGabrielA81/python-how-getting-facebook-data-and-insights-using-facebook-sdk-9de14d3c12fb)
+   3. [Facebook2](https://www.kdnuggets.com/2017/06/6-interesting-things-facebook-python.html)
+   4. [vk1](https://habr.com/ru/post/319178/)
+   5. [vk2](https://proglib.io/p/python-vk-api-1/)
 {% endhint %}
 
