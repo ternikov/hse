@@ -50,14 +50,14 @@
 
 ## Seminar 7
 
-* [7: In-Class](seminar-7/untitled.md)
-* [7: HomeTasks](seminar-7/7-hometasks/README.md)
-  * [HW4](seminar-7/7-hometasks/hw4.md)
+* [7: In-Class](seminar-7/untitled/README.md)
+  * [7: Solutions](seminar-7/untitled/7-hometasks.md)
 
 ## Seminar 8
 
 * [8: In-Class](seminar-8/untitled.md)
 * [8: HomeTasks](seminar-8/8-hometasks/README.md)
+  * [HW4](seminar-8/8-hometasks/hw4.md)
   * [HW5](seminar-8/8-hometasks/hw5.md)
 
 ## Seminar 9

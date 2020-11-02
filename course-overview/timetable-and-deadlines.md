@@ -96,7 +96,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left"><a href="../seminar-7/untitled.md">Parsing Data from Web</a>
+      <td style="text-align:left"><a href="../seminar-7/untitled/">Parsing Data from Web</a>
       </td>
       <td style="text-align:left"><a href="../seminar-6/test.md">Test</a>
         <br />(07 Nov. 6 pm)</td>
@@ -111,7 +111,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">8</td>
       <td style="text-align:left"><a href="../seminar-8/untitled.md">NumPy &amp; Pandas</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-7/7-hometasks/hw4.md">HW4</a>
+      <td style="text-align:left"><a href="../seminar-8/8-hometasks/hw4.md">HW4</a>
       </td>
       <td style="text-align:left">
         <p>PDSH: Ch.2-3</p>
