@@ -36,7 +36,7 @@ description: 'TEST DATE: 07 November. TIME - 18:00 Moscow Timezone'
 * If you disable sound in your recording or/and the strong monotonous echo exists - the student gets 0 \(zero\) points for the whole Test.
 * The Test's video streams will be checked with asynchronous proctoring system. Thus, all official rules concerning proctoring check are also used \(find details in official HSE documents\). In addition, both hands should be in recording while you take the Test tasks \([sample hands position](test.md#sample-hands-and-screen-position) you can see below\).
 * The test cannot be retaken \(official excuses should be sent and verified by study office and me not later then 24 hours before the Test starting time: all such cases will be discussed in individual manner\).
-* In case of blackout \(any other technical problems with connection during the test\), that will stop your stream - automatically stops your test. Only such tasks will be assessed, that have been sent before this blackout.
+* In case of blackout \(any other technical problems with connection during the test\), that is not caused by external issues but by your hardware and software settings, that will stop your stream - automatically stops your test. Only such tasks will be assessed, that have been sent before this blackout. If blackout is caused by external issues - you have time to fix it \(do not leave the room\) and continue the test with time prolongation \[residual time\] \(you should continue your stream and provide supporting proofs of your blackout just in time\).
 * If you do not stop your recording properly \(later than 10 minutes after Test ends\) - the student gets the penalty of 25% from the final mark for the Test.
 
 ## Sample Hands and Screen Position
