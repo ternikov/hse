@@ -111,7 +111,10 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">8</td>
       <td style="text-align:left"><a href="../seminar-8/untitled.md">NumPy &amp; Pandas</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-8/hw4.md">HW4</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-8/hw4.md">HW4</a>
+        </p>
+        <p>(22 Nov.)</p>
       </td>
       <td style="text-align:left">
         <p>PDSH: Ch.2-3</p>
