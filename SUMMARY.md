@@ -56,20 +56,19 @@
 ## Seminar 8
 
 * [8: In-Class](seminar-8/untitled.md)
-* [8: HomeTasks](seminar-8/8-hometasks/README.md)
-  * [HW4](seminar-8/8-hometasks/hw4.md)
-  * [HW5](seminar-8/8-hometasks/hw5.md)
+* [HW4](seminar-8/hw4.md)
 
 ## Seminar 9
 
 * [9: In-Class](seminar-9/untitled.md)
 * [9: HomeTasks](seminar-9/9-hometasks/README.md)
-  * [Big-HW](seminar-9/9-hometasks/big-hw.md)
+  * [HW5](seminar-9/9-hometasks/hw5.md)
 
 ## Seminar 10
 
 * [10: In-Class](seminar-10/untitled.md)
-* [10: HomeTasks](seminar-10/10-hometasks.md)
+* [10: HomeTasks](seminar-10/10-hometasks/README.md)
+  * [Big-HW](seminar-10/10-hometasks/big-hw.md)
 
 ## Seminar 11
 

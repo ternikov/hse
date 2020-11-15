@@ -111,7 +111,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">8</td>
       <td style="text-align:left"><a href="../seminar-8/untitled.md">NumPy &amp; Pandas</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-8/8-hometasks/hw4.md">HW4</a>
+      <td style="text-align:left"><a href="../seminar-8/hw4.md">HW4</a>
       </td>
       <td style="text-align:left">
         <p>PDSH: Ch.2-3</p>
@@ -122,7 +122,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">9</td>
       <td style="text-align:left"><a href="../seminar-9/untitled.md">Applied Statistics</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-8/8-hometasks/hw5.md">HW5</a>
+      <td style="text-align:left"><a href="../seminar-9/9-hometasks/hw5.md">HW5</a>
       </td>
       <td style="text-align:left">PDA: Ch.2</td>
     </tr>
@@ -141,7 +141,7 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left"><a href="../seminar-11/untitled/">Databases &amp; SQL</a>
       </td>
       <td style="text-align:left">
-        <p><a href="../seminar-9/9-hometasks/big-hw.md">Big-HW</a>
+        <p><a href="../seminar-10/10-hometasks/big-hw.md">Big-HW</a>
         </p>
         <p><a href="../seminar-11/untitled/lab1.md">LAB1</a>
         </p>
