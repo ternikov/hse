@@ -12,7 +12,7 @@ Perform your calculations for each stage in separate cell.
 4. Select only the `Goals` column. What is the mean number of Goals scored?
 5. Show only the columns `Team`, `Yellow Cards` and `Red Cards` and assign them to a DataFrame called `discipline`.
 6. Use `discipline`. Sort the teams by `Red Cards`, then by `Yellow Cards` \(both in descending order\).
-7. Calculate the mean `Yellow Cards` given per `Team`.
+7. Calculate the mean `Yellow Cards` given for `Team`.
 8. Use `football`. Filter teams that scored more than 6 goals.
 9. Select `Teams` that start with `G` letter.
 10. Select the first 7 columns.
