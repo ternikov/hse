@@ -61,8 +61,7 @@
 ## Seminar 9
 
 * [9: In-Class](seminar-9/untitled.md)
-* [9: HomeTasks](seminar-9/9-hometasks/README.md)
-  * [HW5](seminar-9/9-hometasks/hw5.md)
+* [HW5](seminar-9/hw5.md)
 
 ## Seminar 10
 
