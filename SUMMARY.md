@@ -60,7 +60,8 @@
 
 ## Seminar 9
 
-* [9: In-Class](seminar-9/untitled.md)
+* [9: In-Class](seminar-9/untitled/README.md)
+  * [9: Solutions](seminar-9/untitled/9-solutions.md)
 * [HW5](seminar-9/hw5.md)
 
 ## Seminar 10
