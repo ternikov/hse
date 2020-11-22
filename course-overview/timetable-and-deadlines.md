@@ -134,38 +134,36 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left"><a href="../seminar-10/untitled.md">Exploratory Data Analysis</a>
+      <td style="text-align:left"><a href="../seminar-10/untitled.md">Web Applications</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><a href="../seminar-10/big-hw.md">Big-HW</a>
+        </p>
+        <p>(13 Dec.)</p>
+      </td>
+      <td style="text-align:left"><a href="https://www.toptal.com/python/telegram-bot-tutorial-python">Tutorial</a>
+        <br
+        /><a href="https://github.com/eternnoir/pyTelegramBotAPI">Examples</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11</td>
+      <td style="text-align:left"><a href="../seminar-11/untitled/">Exploratory Data Analysis</a>
+      </td>
+      <td style="text-align:left"><a href="../seminar-11/untitled/lab1.md">LAB1</a>
+      </td>
       <td style="text-align:left">
         <p>PDSH: Ch.4</p>
         <p>PDA: Ch.3</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11</td>
-      <td style="text-align:left"><a href="../seminar-11/untitled/">Databases &amp; SQL</a>
-      </td>
-      <td style="text-align:left">
-        <p><a href="../seminar-10/10-hometasks/big-hw.md">Big-HW</a>
-        </p>
-        <p><a href="../seminar-11/untitled/lab1.md">LAB1</a>
-        </p>
-      </td>
-      <td style="text-align:left">PDA: Ch.12</td>
-    </tr>
-    <tr>
       <td style="text-align:left">12</td>
-      <td style="text-align:left"><a href="../seminar-12/untitled/">Web Applications</a>
+      <td style="text-align:left"><a href="../seminar-12/untitled/">Databases &amp; SQL</a>
       </td>
       <td style="text-align:left"><a href="../seminar-12/untitled/lab2.md">LAB2</a>
       </td>
-      <td style="text-align:left">
-        <p><a href="https://www.toptal.com/python/telegram-bot-tutorial-python">Tutorial</a>
-        </p>
-        <p><a href="https://github.com/eternnoir/pyTelegramBotAPI">Examples</a>
-        </p>
-      </td>
+      <td style="text-align:left">PDA: Ch.12</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>

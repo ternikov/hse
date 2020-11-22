@@ -67,8 +67,7 @@
 ## Seminar 10
 
 * [10: In-Class](seminar-10/untitled.md)
-* [10: HomeTasks](seminar-10/10-hometasks/README.md)
-  * [Big-HW](seminar-10/10-hometasks/big-hw.md)
+* [Big-HW](seminar-10/big-hw.md)
 
 ## Seminar 11
 
