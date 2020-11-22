@@ -11,7 +11,7 @@ description: Web Applications with Telegram Bot API
 
 _Useful links_:
 
-1. [Tutorial](https://www.toptal.com/python/telegram-bot-tutorial-python) 
+1. [Tutorial](https://www.toptal.com/python/telegram-bot-tutorial-python)
 2. [Examples](https://github.com/eternnoir/pyTelegramBotAPI)
 3. [https://hackernoon.com/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4](https://hackernoon.com/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4)
 4. [https://www.codementor.io/@garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay](https://www.codementor.io/@garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay)
