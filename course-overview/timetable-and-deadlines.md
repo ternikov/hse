@@ -125,7 +125,10 @@ description: All deadlines in UTC+3 (Moscow timezone)
       <td style="text-align:left">9</td>
       <td style="text-align:left"><a href="../seminar-9/untitled/">Applied Statistics</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-9/hw5.md">HW5</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-9/hw5.md">HW5</a>
+        </p>
+        <p>(29 Nov.)</p>
       </td>
       <td style="text-align:left">PDA: Ch.2</td>
     </tr>
