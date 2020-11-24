@@ -19,3 +19,7 @@ _Useful links_:
 6. [https://dementiy.gitbooks.io/-python/content/lab5.html](https://dementiy.gitbooks.io/-python/content/lab5.html)
 {% endhint %}
 
+{% file src="../.gitbook/assets/bot\_deploy\_example.zip" caption="Example Files for Heroku Deployment" %}
+
+
+
