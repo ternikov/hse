@@ -148,9 +148,12 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">11</td>
-      <td style="text-align:left"><a href="../seminar-11/untitled/">Exploratory Data Analysis</a>
+      <td style="text-align:left"><a href="../seminar-11/lab1.md">Exploratory Data Analysis</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-11/untitled/lab1.md">LAB1</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-11/lab1.md">LAB1</a>
+        </p>
+        <p>(week 30.11 - 05.12)</p>
       </td>
       <td style="text-align:left">
         <p>PDSH: Ch.4</p>
@@ -159,9 +162,12 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">12</td>
-      <td style="text-align:left"><a href="../seminar-12/untitled/">Databases &amp; SQL</a>
+      <td style="text-align:left"><a href="../seminar-12/lab2.md">Databases &amp; SQL</a>
       </td>
-      <td style="text-align:left"><a href="../seminar-12/untitled/lab2.md">LAB2</a>
+      <td style="text-align:left">
+        <p><a href="../seminar-12/lab2.md">LAB2</a>
+        </p>
+        <p>(week 07.12 - 12.12)</p>
       </td>
       <td style="text-align:left">PDA: Ch.12</td>
     </tr>

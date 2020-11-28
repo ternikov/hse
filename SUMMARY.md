@@ -71,15 +71,11 @@
 
 ## Seminar 11
 
-* [11: In-Class](seminar-11/untitled/README.md)
-  * [LAB1](seminar-11/untitled/lab1.md)
-* [11: HomeTasks](seminar-11/11-hometasks.md)
+* [LAB1](seminar-11/lab1.md)
 
 ## Seminar 12
 
-* [12: In-Class](seminar-12/untitled/README.md)
-  * [LAB2](seminar-12/untitled/lab2.md)
-* [12: HomeTasks](seminar-12/12-hometasks.md)
+* [LAB2](seminar-12/lab2.md)
 
 ## Seminar 13
 
