@@ -21,5 +21,7 @@ _Useful links_:
 
 {% file src="../.gitbook/assets/bot\_deploy\_example.zip" caption="Example Files for Heroku Deployment" %}
 
+{% file src="../.gitbook/assets/bot-exmo.py.zip" caption="bot-exmo.py" %}
+
 
 
