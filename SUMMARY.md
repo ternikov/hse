@@ -71,7 +71,8 @@
 
 ## Seminar 11
 
-* [LAB1](seminar-11/lab1.md)
+* [LAB1](seminar-11/lab1/README.md)
+  * [Lab 1. Monday 09:30](seminar-11/lab1/lab-1.-monday-09-30.md)
 
 ## Seminar 12
 
