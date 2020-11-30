@@ -6,5 +6,5 @@ description: Week 07.12 - 12.12
 
 > [Lab's organization process](../course-overview/grading/lab.md)
 
-To be announced ... 
+To be announced ...
 
