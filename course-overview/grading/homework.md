@@ -9,7 +9,7 @@ Following deadlines affect five HW and one Big-HW:
 
 1. **Soft** deadline \(0% penalty\): Sunday 23:59 of the next week
 2. **Hard** deadline \(25% penalty\): up to one week later than Soft Deadline
-3. **Fail** deadline \(100% penalty\): later than Soft deadline
+3. **Fail** deadline \(100% penalty\): later than Hard deadline
 {% endhint %}
 
 {% hint style="success" %}
