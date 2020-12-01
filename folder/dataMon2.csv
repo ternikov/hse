@@ -1,0 +1,1001 @@
+,Brand,Condition,Fuel,KMs Driven,Model,Price,Registered City,Transaction Type,Year
+0,Toyota,Used,Diesel,1.0,Prado,2100000,Karachi,Cash,1997.0
+1,Suzuki,Used,Petrol,100000.0,Bolan,380000,Karachi,Cash,2006.0
+2,Suzuki,Used,CNG,12345.0,Bolan,340000,Karachi,Cash,1998.0
+3,Suzuki,Used,Petrol,94000.0,Alto,535000,Karachi,Cash,2010.0
+4,Toyota,Used,Petrol,100000.0,Corolla XLI,1430000,Karachi,Cash,2013.0
+5,Toyota,Used,Petrol,80000.0,Corrolla Altis,1620000,Karachi,Cash,2012.0
+6,Suzuki,New,CNG,65000.0,Cultus VXL,450000,Karachi,Cash,2006.0
+7,Toyota,New,Petrol,10241.0,Corrolla Altis,2900000,Karachi,Cash,2017.0
+8,Suzuki,Used,CNG,83000.0,Alto,490000,Karachi,Cash,2009.0
+9,Honda,Used,Petrol,1.0,Civic VTi,480000,Karachi,Cash,1997.0
+10,Suzuki,Used,CNG,123.0,Khyber,230000,Karachi,Cash,1994.0
+11,Suzuki,Used,CNG,73000.0,Liana,535000,Karachi,Cash,2006.0
+12,Toyota,Used,Petrol,78000.0,Passo,770000,Karachi,Cash,2006.0
+13,Honda,Used,Petrol,1.0,Civic Prosmetic,490000,Karachi,Cash,1997.0
+14,Honda,Used,CNG,170000.0,Civic EXi,160000,Karachi,Cash,1984.0
+15,Suzuki,Used,Petrol,200000.0,Alto,425000,Karachi,Cash,2005.0
+16,Daihatsu,Used,Petrol,100000.0,Charade,180000,Karachi,Cash,1988.0
+17,Mitsubishi,Used,Petrol,82000.0,Pajero Mini,520000,Karachi,Cash,1995.0
+18,Suzuki,Used,CNG,10000.0,Margalla,400000,Karachi,Cash,1990.0
+19,Honda,Used,Petrol,69500.0,City IVTEC,1400000,Karachi,Cash,2014.0
+20,Suzuki,Used,CNG,10000.0,Khyber,175000,Karachi,Cash,1989.0
+21,KIA,Used,CNG,123456.0,Classic,120000,Karachi,Cash,2001.0
+22,Honda,Used,CNG,87611.0,Civic EXi,590000,Karachi,Cash,2000.0
+23,Honda,Used,Hybrid,19000.0,Other,425000,Karachi,Cash,1995.0
+24,Honda,Used,CNG,99000.0,Civic EXi,685000,Karachi,Cash,2005.0
+25,Suzuki,Used,CNG,88000.0,Alto,465000,Karachi,Cash,2007.0
+26,Toyota,Used,Petrol,75000.0,Corolla GLI,1190000,Karachi,Cash,2010.0
+27,Other Brands,Used,Petrol,124000.0,Other,850000,Karachi,Cash,2010.0
+28,Suzuki,Used,CNG,76000.0,Cultus VXR,370000,Karachi,Cash,2002.0
+29,Nissan,New,Petrol,47000.0,Dayz Highway Star,1175000,Karachi,Cash,2013.0
+30,Toyota,New,Petrol,43000.0,Corolla XLI,1675000,Karachi,Cash,2015.0
+31,Suzuki,Used,CNG,3875.0,Mehran VX,195000,Karachi,Cash,1999.0
+32,Suzuki,Used,CNG,98000.0,Mehran VX,165000,Karachi,Cash,1991.0
+33,Suzuki,Used,Petrol,1000.0,Alto,420000,Karachi,Cash,2006.0
+34,Toyota,Used,Petrol,39000.0,Vitz,1430000,Karachi,Cash,2014.0
+35,Suzuki,Used,CNG,127000.0,Mehran VXR,150000,Karachi,Cash,1991.0
+36,Suzuki,Used,LPG,786.0,Carry,130000,Karachi,Cash,1982.0
+37,Suzuki,Used,CNG,70.0,Cultus VXR,415000,Karachi,Cash,2004.0
+38,Suzuki,Used,CNG,99999.0,Mehran VX,185000,Karachi,Cash,1997.0
+39,Toyota,Used,Petrol,89000.0,Passo,1040000,Karachi,Cash,2010.0
+40,Suzuki,Used,CNG,1.0,Cultus VX,400000,Karachi,Cash,2002.0
+41,Suzuki,Used,Petrol,100000.0,Cultus VXR,360000,Karachi,Cash,2001.0
+42,Toyota,New,Petrol,69000.0,Vitz,1150000,Karachi,Cash,2003.0
+43,Suzuki,New,CNG,65000.0,Mehran VX,265000,Karachi,Cash,2005.0
+44,Suzuki,New,CNG,73000.0,Mehran VXR,435000,Karachi,Cash,2009.0
+45,Toyota,Used,Petrol,163000.0,Corolla GLI,1220000,Karachi,Cash,2009.0
+46,Suzuki,Used,CNG,56.0,Cultus VXR,780000,Karachi,Cash,2011.0
+47,Suzuki,Used,CNG,10000.0,Bolan,250000,Karachi,Cash,1987.0
+48,Toyota,Used,Petrol,190.0,Corrolla Altis,875000,Karachi,Cash,2004.0
+49,Toyota,Used,CNG,65000.0,Corolla XLI,1260000,Karachi,Cash,2013.0
+50,Suzuki,Used,Petrol,65000.0,Cultus VXR,840000,Karachi,Cash,2013.0
+51,Suzuki,Used,CNG,174000.0,Alto,350000,Karachi,Cash,2004.0
+52,Suzuki,Used,Petrol,5458.0,Baleno,380000,Karachi,Cash,2001.0
+53,Suzuki,Used,Petrol,90000.0,Alto,340000,Karachi,Cash,2007.0
+54,Daihatsu,Used,Petrol,88000.0,Mira,1050000,Karachi,Cash,2013.0
+55,Toyota,Used,CNG,200000.0,Vitz,730000,Karachi,Cash,2006.0
+56,Suzuki,Used,CNG,28800.0,Mehran VXR,195000,Karachi,Cash,1995.0
+57,Honda,New,Petrol,95000.0,Civic VTi Oriel Prosmatec,1070000,Karachi,Cash,2007.0
+58,Daihatsu,Used,CNG,71000.0,Cuore,410000,Karachi,Cash,2001.0
+59,Daihatsu,Used,CNG,100.0,Charade,155000,Karachi,Cash,1984.0
+60,Suzuki,Used,CNG,1.0,Margalla,320000,Karachi,Cash,1994.0
+61,Toyota,Used,Diesel,134000.0,Corolla 2.0 D,1080000,Karachi,Cash,2010.0
+62,Suzuki,Used,CNG,1.0,Bolan,290000,Karachi,Cash,1993.0
+63,Toyota,Used,Petrol,123456.0,Corolla XE,570000,Karachi,Cash,1998.0
+64,Toyota,Used,Petrol,92000.0,Surf,4150000,Karachi,Cash,2007.0
+65,Suzuki,Used,CNG,1.0,FX,90000,Karachi,Cash,1988.0
+66,Suzuki,New,Petrol,36000.0,Mehran VXR,590000,Karachi,Cash,2015.0
+67,Toyota,Used,Petrol,40000.0,Corolla GLI,1740000,Karachi,Cash,2015.0
+68,Toyota,Used,Petrol,85010.0,Corolla GLI,916000,Karachi,Cash,2004.0
+69,Daihatsu,New,Petrol,153736.0,Cuore,535000,Karachi,Cash,2006.0
+70,Suzuki,Used,CNG,17000.0,Mehran VX,110000,Hyderabad,Cash,1991.0
+71,Honda,Used,Petrol,100000.0,City IDSI,765000,Karachi,Cash,2004.0
+72,Toyota,Used,Petrol,130000.0,Premio,1150000,Karachi,Cash,2003.0
+73,Suzuki,Used,Petrol,150000.0,Alto,410000,Karachi,Cash,2007.0
+74,Suzuki,Used,CNG,17000.0,Mehran VX,110000,Hyderabad,Cash,1991.0
+75,Honda,Used,Petrol,100000.0,City IDSI,765000,Karachi,Cash,2004.0
+76,Toyota,Used,Petrol,130000.0,Premio,1150000,Karachi,Cash,2003.0
+77,Suzuki,Used,Petrol,150000.0,Alto,410000,Karachi,Cash,2007.0
+78,Toyota,Used,Petrol,55000.0,Corolla GLI,1890000,Karachi,Cash,2016.0
+79,Suzuki,Used,Petrol,70000.0,Cultus VXR,790000,Karachi,Cash,2011.0
+80,Daihatsu,Used,Petrol,102000.0,Mira,785000,Karachi,Cash,2011.0
+81,Suzuki,Used,Petrol,1700000.0,Mehran VX,270000,Karachi,Cash,2006.0
+82,Toyota,Used,CNG,100000.0,Sprinter,150000,Karachi,Cash,1987.0
+83,BMW,Used,CNG,53524.0,3 Series,550000,Karachi,Cash,1997.0
+84,Mazda,Used,Petrol,78000.0,Other,825000,Karachi,Cash,2007.0
+85,Toyota,Used,Diesel,40000.0,Hilux,3850000,Karachi,Cash,2013.0
+86,Suzuki,Used,Petrol,90000.0,Mehran VXR,490000,Karachi,Cash,2012.0
+87,Toyota,Used,Petrol,40000.0,Vitz,1250000,Karachi,Cash,2010.0
+88,Daihatsu,Used,Petrol,80000.0,Charade,135000,Karachi,Cash,1986.0
+89,Mitsubishi,New,Petrol,96000.0,Lancer,780000,Karachi,Cash,2008.0
+90,Other Brands,Used,Diesel,38000.0,Other,4500000,Karachi,Cash,2012.0
+91,Suzuki,Used,Petrol,83000.0,Alto,430000,Karachi,Cash,2006.0
+92,Honda,New,Petrol,10900.0,Civic VTi Oriel Prosmatec,2880000,Karachi,Cash,2017.0
+93,Toyota,Used,Petrol,64600.0,Passo,975000,Karachi,Cash,2007.0
+94,Suzuki,Used,Petrol,80000.0,Cultus VXR,440000,Karachi,Cash,2004.0
+95,Suzuki,Used,CNG,85000.0,Cultus VXR,440000,Karachi,Cash,2007.0
+96,Suzuki,Used,CNG,52000.0,Mehran VXR,400000,Karachi,Cash,2008.0
+97,Suzuki,Used,CNG,1.0,Bolan,305000,Karachi,Cash,1997.0
+98,Suzuki,Used,Petrol,48000.0,Mehran VX,450000,Karachi,Cash,2012.0
+99,Suzuki,Used,Petrol,50000.0,Swift,1140000,Karachi,Cash,2015.0
+100,Suzuki,New,Petrol,13300.0,Mehran VX,680000,Karachi,Cash,2017.0
+101,Suzuki,Used,CNG,25000.0,Alto,335000,Karachi,Cash,2004.0
+102,Toyota,Used,Petrol,74000.0,Estima,3350000,Karachi,Cash,2010.0
+103,Suzuki,Used,Petrol,65000.0,Mehran VXR,405000,Karachi,Cash,2011.0
+104,Toyota,Used,Petrol,1991.0,Prado,1150000,Karachi,Cash,1991.0
+105,Suzuki,Used,Petrol,4200.0,Alto,450000,Karachi,Cash,2006.0
+106,Suzuki,Used,Petrol,25000.0,Cultus VXR,865000,Karachi,Cash,2014.0
+107,Suzuki,Used,Petrol,52000.0,Mehran VXR,400000,Karachi,Cash,2008.0
+108,Toyota,Used,Petrol,60000.0,Passo,1090000,Karachi,Cash,2010.0
+109,Suzuki,New,CNG,125463.0,Mehran VXR,300000,Karachi,Cash,2009.0
+110,Suzuki,New,CNG,76000.0,Cultus VXR,440000,Karachi,Cash,2000.0
+111,Honda,Used,Petrol,132000.0,Civic VTi,750000,Karachi,Cash,2000.0
+112,Honda,Used,Petrol,17500.0,Vamos,820000,Karachi,Installment/Leasing,2011.0
+113,Toyota,Used,CNG,186000.0,Starlet,250000,Karachi,Cash,1986.0
+114,Daihatsu,Used,CNG,62000.0,Cuore,425000,Karachi,Cash,2005.0
+115,Suzuki,New,Hybrid,62000.0,Mehran VXR,373000,Karachi,Cash,2010.0
+116,Toyota,Used,Hybrid,88000.0,Prius,2500000,Karachi,Cash,2013.0
+117,Chevrolet,Used,Petrol,100000.0,Joy,320000,Karachi,Cash,2006.0
+118,Toyota,Used,Petrol,250000.0,Vitz,765000,Karachi,Cash,2000.0
+119,Toyota,New,Diesel,62.0,Hilux,5350000,Karachi,Cash,2018.0
+120,Daihatsu,Used,CNG,100000.0,Charade,200000,Karachi,Cash,1986.0
+121,Honda,Used,Petrol,85575.0,City IVTEC,1160000,Karachi,Cash,2010.0
+122,Toyota,Used,Petrol,100000.0,Passo,9000000,Karachi,Cash,2007.0
+123,Mazda,Used,CNG,10000.0,323,55000,Karachi,Cash,1981.0
+124,Toyota,Used,Petrol,77000.0,Corrolla Altis,1110000,Karachi,Cash,2010.0
+125,Suzuki,Used,CNG,89000.0,Alto,570000,Karachi,Cash,2011.0
+126,Toyota,New,Hybrid,83000.0,Prius,2830000,Karachi,Cash,2015.0
+127,Suzuki,Used,CNG,65000.0,Cultus VXR,740000,Karachi,Cash,2011.0
+128,Suzuki,Used,Petrol,1.0,Alto,320000,Karachi,Cash,2009.0
+129,Suzuki,Used,Petrol,138000.0,Liana,560000,Karachi,Cash,2007.0
+130,Suzuki,Used,Petrol,111000.0,Cultus VXR,750000,Karachi,Cash,2011.0
+131,Suzuki,Used,CNG,60000.0,Cultus VXL,690000,Karachi,Cash,2009.0
+132,Honda,Used,Petrol,60000.0,City IVTEC,1095000,Karachi,Cash,2009.0
+133,Toyota,Used,Petrol,80000.0,Corolla GLI,1400000,Karachi,Cash,2011.0
+134,Suzuki,Used,CNG,100.0,Mehran VX,145000,Karachi,Cash,1991.0
+135,Honda,Used,Petrol,59000.0,Civic Prosmetic,1710000,Karachi,Cash,2014.0
+136,Toyota,Used,CNG,8000000.0,Corolla XLI,900000,Karachi,Cash,2007.0
+137,Toyota,Used,Petrol,11750.0,Corrolla Altis,2175000,Karachi,Cash,2016.0
+138,Toyota,Used,CNG,13700.0,Other,105000,Karachi,Cash,1978.0
+139,Honda,Used,Petrol,12345.0,Other,485000,Karachi,Cash,2007.0
+140,Honda,Used,Petrol,70000.0,Civic VTi Oriel Prosmatec,1350000,Bagh,Cash,2009.0
+141,Daihatsu,New,Petrol,67000.0,Mira,1100000,Karachi,Cash,2014.0
+142,Suzuki,Used,Petrol,1.0,Khyber,260000,Karachi,Cash,1999.0
+143,Honda,Used,Petrol,80000.0,City IVTEC,1080000,Karachi,Cash,2010.0
+144,Daewoo,Used,Petrol,100042.0,Racer,210000,Karachi,Cash,1994.0
+145,Suzuki,Used,CNG,100000.0,Mehran VX,170000,Karachi,Cash,1989.0
+146,Toyota,Used,Petrol,70000.0,Corolla GLI,1250000,Karachi,Cash,2010.0
+147,Toyota,Used,Petrol,118000.0,Corrolla Altis,1320000,Karachi,Cash,2011.0
+148,Honda,Used,Petrol,132000.0,Civic Prosmetic,1000000,Karachi,Cash,2007.0
+149,Suzuki,New,Petrol,1.0,Other,1150000,Karachi,Cash,2008.0
+150,Honda,Used,CNG,100000.0,City IDSI,785000,Karachi,Cash,2006.0
+151,Nissan,Used,CNG,6000000.0,Sunny,220000,Karachi,Cash,1991.0
+152,Suzuki,Used,Petrol,1.0,Alto,450000,Karachi,Cash,2007.0
+153,Honda,Used,CNG,200000.0,Accord,290000,Karachi,Cash,1986.0
+154,Suzuki,Used,CNG,70000.0,Cultus VXR,825000,Karachi,Cash,2011.0
+155,Toyota,New,Hybrid,83000.0,Prius,2830000,Karachi,Cash,2015.0
+156,Suzuki,Used,CNG,138000.0,Alto,430000,Sukkar,Cash,2010.0
+157,Honda,Used,Petrol,54000.0,Zest,950000,Karachi,Cash,2011.0
+158,Nissan,Used,Petrol,100000.0,AD Van,930000,Karachi,Cash,2007.0
+159,Suzuki,New,Petrol,26000.0,APV,1275000,Karachi,Cash,2014.0
+160,Honda,New,Petrol,80000.0,Civic Prosmetic,760000,Karachi,Cash,2003.0
+161,Toyota,Used,Petrol,160000.0,Vitz,980000,Karachi,Cash,2012.0
+162,Toyota,Used,Petrol,100000.0,Passo,855000,Karachi,Cash,2007.0
+163,Suzuki,Used,CNG,786110.0,Khyber,210000,Karachi,Cash,1996.0
+164,Suzuki,Used,CNG,80000.0,Cultus VXR,600000,Karachi,Cash,2009.0
+165,Suzuki,Used,CNG,25.0,FX,68000,Karachi,Cash,1986.0
+166,Suzuki,Used,CNG,20000.0,Cultus VXR,520000,Karachi,Cash,2006.0
+167,Nissan,Used,Petrol,103400.0,March,500000,Karachi,Cash,2008.0
+168,Honda,Used,Petrol,17000.0,Civic EXi,700000,Karachi,Cash,2004.0
+169,Suzuki,Used,CNG,82000.0,Cultus VXL,580000,Karachi,Cash,2006.0
+170,Daihatsu,Used,Petrol,91000.0,Cuore,350000,Karachi,Cash,2000.0
+171,Suzuki,Used,CNG,100000.0,Khyber,225000,Karachi,Cash,1996.0
+172,Toyota,Used,Petrol,45000.0,Corolla XLI,1625000,Karachi,Cash,2014.0
+173,Suzuki,Used,Petrol,86580.0,Bolan,500000,Karachi,Cash,2007.0
+174,Suzuki,Used,Hybrid,100000.0,Khyber,260000,Karachi,Cash,1991.0
+175,KIA,Used,CNG,17.0,Pride,118000,Karachi,Cash,1996.0
+176,Suzuki,Used,Petrol,67000.0,Alto,535000,Karachi,Cash,2008.0
+177,Suzuki,Used,CNG,13.0,Bolan,168000,Karachi,Cash,1986.0
+178,Honda,Used,Petrol,200000.0,City IDSI,650000,Karachi,Cash,2005.0
+179,KIA,Used,CNG,1.0,Sportage,220000,Karachi,Cash,2000.0
+180,Toyota,Used,CNG,170000.0,Other,320000,Karachi,Cash,1988.0
+181,Honda,Used,Petrol,1234.0,Civic EXi,95000,Karachi,Cash,1985.0
+182,Daihatsu,Used,CNG,78000.0,Terios Kid,700000,Karachi,Cash,2000.0
+183,Daihatsu,Used,Petrol,186000.0,Cuore,585000,Karachi,Cash,2010.0
+184,Toyota,Used,Petrol,99600.0,Corolla GLI,1525000,Karachi,Cash,2012.0
+185,Hyundai,Used,CNG,88000.0,Santro,440000,Karachi,Cash,2006.0
+186,Suzuki,Used,LPG,12345.0,Carry,150000,Karachi,Cash,1981.0
+187,Honda,Used,Hybrid,69000.0,Fit,1730000,Karachi,Cash,2013.0
+188,Toyota,Used,Hybrid,120000.0,Prius,2000000,Karachi,Cash,2014.0
+189,Honda,Used,CNG,1254.0,Civic EXi,545000,Karachi,Cash,2001.0
+190,Suzuki,Used,CNG,100000.0,Alto,425000,Karachi,Cash,2005.0
+191,Suzuki,Used,CNG,11111.0,Khyber,170000,Karachi,Cash,1998.0
+192,Suzuki,Used,Petrol,70000.0,Cultus VXR,830000,Karachi,Cash,2012.0
+193,Suzuki,Used,CNG,12.0,Mehran VX,155000,Karachi,Cash,1994.0
+194,Suzuki,Used,CNG,123.0,Mehran VX,120000,Karachi,Cash,1992.0
+195,Suzuki,New,CNG,53000.0,Khyber,130000,Karachi,Cash,1992.0
+196,Suzuki,Used,CNG,1.0,Mehran VXR,190000,Karachi,Cash,1992.0
+197,Suzuki,Used,CNG,60000.0,Khyber,230000,Karachi,Cash,1997.0
+198,Daihatsu,Used,CNG,124.0,Cuore,293000,Karachi,Cash,2002.0
+199,Daihatsu,Used,Petrol,49000.0,Mira,1100000,Karachi,Cash,2013.0
+200,Suzuki,Used,Petrol,1.0,Margalla,300000,Karachi,Cash,1993.0
+201,Suzuki,Used,Petrol,50000.0,FX,55000,Karachi,Cash,1984.0
+202,Toyota,New,CNG,10000.0,Corolla GLI,685000,Karachi,Cash,1999.0
+203,FAW,Used,Petrol,16900.0,V2,975000,Karachi,Cash,2016.0
+204,Daewoo,Used,CNG,100000.0,Racer,225000,Karachi,Cash,1994.0
+205,Suzuki,Used,CNG,50000.0,Mehran VX,370000,Karachi,Cash,2012.0
+206,Suzuki,Used,Petrol,35955.0,Alto,510000,Karachi,Cash,2008.0
+207,Honda,Used,Petrol,131389.0,City Aspire,930000,Karachi,Cash,2006.0
+208,Toyota,Used,Petrol,1.0,Corolla XLI,250000,Karachi,Cash,1980.0
+209,Suzuki,Used,Hybrid,786.0,Mehran VX,310000,Karachi,Cash,2006.0
+210,Suzuki,Used,Petrol,116500.0,Alto,425000,Karachi,Cash,2006.0
+211,Suzuki,New,CNG,34000.0,Alto,750000,Karachi,Cash,2011.0
+212,Suzuki,New,Petrol,1.0,Cultus VXL,580000,Bahawalnagar,Cash,2008.0
+213,Honda,Used,CNG,1160000.0,Civic VTi Oriel,600000,Karachi,Cash,2001.0
+214,Suzuki,Used,CNG,112000.0,Cultus VXL,560000,Karachi,Cash,2018.0
+215,Toyota,Used,Petrol,72000.0,Vitz,1275000,Karachi,Cash,2012.0
+216,Daihatsu,Used,CNG,200000.0,Charade,130000,Karachi,Cash,1983.0
+217,Hyundai,Used,CNG,80000.0,Santro,365000,Karachi,Cash,2006.0
+218,Toyota,Used,Petrol,30000.0,Corolla GLI,300000,Karachi,Installment/Leasing,2012.0
+219,Suzuki,Used,CNG,10.0,Cultus VXL,540000,Karachi,Cash,2005.0
+220,Honda,Used,Petrol,25000.0,BR-V,500000,Karachi,Installment/Leasing,2013.0
+221,Hyundai,Used,Petrol,10010.0,Santro,330000,Karachi,Cash,2005.0
+222,Suzuki,Used,CNG,110000.0,Cultus VXR,510000,Karachi,Cash,2000.0
+223,Nissan,Used,Petrol,30000.0,Dayz Highway Star,1450000,Karachi,Cash,2016.0
+224,Suzuki,Used,Petrol,82000.0,Kei,995000,Karachi,Cash,2015.0
+225,Toyota,Used,Petrol,97000.0,Probox,1100000,Karachi,Cash,2007.0
+226,Daihatsu,Used,CNG,100000.0,Charade,130000,Karachi,Cash,1991.0
+227,Daihatsu,New,Petrol,127111.0,Hijet,785000,Karachi,Cash,2012.0
+228,Toyota,Used,CNG,786786.0,86,195000,Karachi,Cash,1986.0
+229,Suzuki,Used,CNG,55000.0,Alto,300000,Karachi,Cash,2012.0
+230,Suzuki,Used,CNG,99000.0,Mehran VX,315000,Karachi,Cash,2007.0
+231,Daihatsu,Used,Petrol,75000.0,Hijet,690000,Karachi,Cash,2010.0
+232,Suzuki,Used,CNG,1.0,Mehran VX,165000,Karachi,Cash,1991.0
+233,Honda,Used,Petrol,100000.0,Civic VTi Oriel Prosmatec,1750000,Karachi,Cash,2013.0
+234,Suzuki,Used,CNG,500000.0,Bolan,490000,Karachi,Cash,2007.0
+235,Suzuki,Used,CNG,1.0,Khyber,265000,Karachi,Cash,1999.0
+236,Daihatsu,Used,Petrol,1.0,Cuore,550000,Karachi,Cash,2006.0
+237,Daihatsu,Used,Petrol,20000.0,Mira,1260000,Karachi,Cash,2015.0
+238,Honda,Used,Petrol,82500.0,Civic VTi Oriel Prosmatec,1079000,Karachi,Cash,2007.0
+239,Suzuki,Used,CNG,140000.0,Cultus VXR,530000,Karachi,Cash,2006.0
+240,Suzuki,Used,CNG,200000.0,FX,90000,Karachi,Cash,1983.0
+241,Daihatsu,Used,CNG,1525555.0,Charade,150000,Karachi,Cash,1984.0
+242,Suzuki,Used,Petrol,78000.0,Alto,550000,Karachi,Cash,2008.0
+243,Suzuki,Used,Petrol,33937.0,Other,260000,Karachi,Cash,1993.0
+244,Honda,Used,Petrol,126000.0,City IDSI,600000,Karachi,Cash,2005.0
+245,Daihatsu,Used,CNG,100000.0,Charade,245000,Karachi,Cash,1986.0
+246,Suzuki,Used,CNG,155000.0,Baleno,500000,Karachi,Cash,2005.0
+247,Suzuki,Used,Petrol,96000.0,Alto,1040000,Karachi,Cash,2015.0
+248,Suzuki,Used,CNG,112000.0,Alto,580000,Karachi,Cash,2010.0
+249,Honda,Used,Petrol,150000.0,Civic EXi,600000,Karachi,Cash,2001.0
+250,Toyota,Used,Petrol,60000.0,Passo,975000,Karachi,Cash,2008.0
+251,Daihatsu,Used,CNG,150000.0,Cuore,340000,Karachi,Cash,2007.0
+252,Toyota,Used,Petrol,1234.0,Other,500000,Karachi,Cash,1982.0
+253,Daihatsu,Used,CNG,95000.0,Cuore,465000,Karachi,Cash,2005.0
+254,Daihatsu,Used,CNG,85236.0,Cuore,150000,Karachi,Cash,1993.0
+255,Toyota,Used,Petrol,74000.0,Vitz,910000,Karachi,Cash,2005.0
+256,Toyota,Used,Petrol,25000.0,Yaris,280000,Karachi,Installment/Leasing,2015.0
+257,Toyota,Used,Hybrid,56000.0,Aygo,1975000,Karachi,Cash,2014.0
+258,Toyota,Used,Petrol,1.0,Vitz,930000,Karachi,Cash,2007.0
+259,Suzuki,Used,Petrol,62000.0,Cultus VXR,860000,Karachi,Cash,2014.0
+260,Toyota,Used,Petrol,74000.0,Rush,1600000,Karachi,Cash,2007.0
+261,Daihatsu,Used,Petrol,80000.0,Hijet,725000,Karachi,Cash,2015.0
+262,Suzuki,New,CNG,356425.0,Margalla,240000,Karachi,Cash,1993.0
+263,Suzuki,Used,CNG,52000.0,FX,140000,Karachi,Cash,1985.0
+264,Daihatsu,Used,Petrol,1234567.0,Mira,965000,Karachi,Cash,2014.0
+265,Suzuki,Used,CNG,1.0,Mehran VX,120000,Karachi,Cash,1989.0
+266,Toyota,Used,Hybrid,120000.0,Prius,2000000,Karachi,Cash,2010.0
+267,Honda,Used,Petrol,89000.0,Civic VTi Oriel Prosmatec,2325000,Karachi,Cash,2016.0
+268,Nissan,Used,Petrol,44000.0,Dayz,1120000,Karachi,Cash,2015.0
+269,Toyota,Used,Petrol,125000.0,Vitz,950000,Karachi,Cash,2008.0
+270,Suzuki,Used,Petrol,57000.0,Alto,960000,Karachi,Cash,2016.0
+271,Toyota,Used,Petrol,35000.0,Fortuner,210000,Karachi,Installment/Leasing,2011.0
+272,Daihatsu,New,Petrol,29800.0,Mira,1140000,Karachi,Cash,2015.0
+273,Daihatsu,Used,CNG,10000000.0,Charade,60000,Lahore,Cash,1984.0
+274,Toyota,New,Petrol,1000.0,Passo,795000,Karachi,Cash,2007.0
+275,Toyota,Used,CNG,99000.0,Corolla GLI,1135000,Karachi,Cash,2009.0
+276,Suzuki,Used,Petrol,82000.0,Cultus VXR,785000,Karachi,Cash,2012.0
+277,Suzuki,Used,CNG,1.0,Bolan,365000,Karachi,Cash,1997.0
+278,Suzuki,Used,Petrol,100000.0,Every,960000,Karachi,Cash,2014.0
+279,Daihatsu,Used,Petrol,1.0,Other,200000,Karachi,Cash,1986.0
+280,Toyota,Used,Petrol,120000.0,Corolla XLI,800000,Karachi,Cash,2006.0
+281,Suzuki,Used,CNG,77000.0,Alto,405000,Karachi,Cash,2004.0
+282,Daihatsu,New,Petrol,38000.0,Mira,1250000,Karachi,Cash,2014.0
+283,Suzuki,Used,CNG,100000.0,Cultus VXR,650000,Karachi,Cash,2008.0
+284,Suzuki,Used,CNG,95410.0,Cultus VXR,695000,Karachi,Cash,2012.0
+285,Suzuki,Used,CNG,82000.0,Alto,535000,Karachi,Cash,2008.0
+286,Suzuki,Used,CNG,100000.0,Alto,465000,Karachi,Cash,2007.0
+287,Suzuki,Used,CNG,12500.0,Liana,600000,Karachi,Cash,2008.0
+288,Daihatsu,Used,Petrol,22500.0,Mira,1250000,Karachi,Cash,2016.0
+289,Honda,Used,Petrol,150000.0,Civic EXi,820000,Karachi,Cash,2004.0
+290,Suzuki,Used,Petrol,100000.0,Alto,450000,Karachi,Cash,2007.0
+291,Daihatsu,Used,Petrol,92000.0,Cuore,600000,Karachi,Cash,2006.0
+292,Toyota,Used,Petrol,100000.0,Camry,1650000,Karachi,Cash,2006.0
+293,Toyota,Used,Petrol,150000.0,Corrolla Altis,1550000,Karachi,Cash,2011.0
+294,Suzuki,Used,Petrol,44000.0,Cultus VXR,860000,Karachi,Cash,2013.0
+295,Toyota,Used,CNG,270000.0,Corolla XLI,950000,Karachi,Cash,2006.0
+296,Suzuki,New,Petrol,68500.0,Swift,1165000,Karachi,Cash,2011.0
+297,Toyota,New,Petrol,35000.0,Prado,7550000,Karachi,Cash,2013.0
+298,Suzuki,Used,CNG,10.0,Alto,510000,Karachi,Cash,2005.0
+299,Toyota,Used,CNG,12345.0,Corolla XE,570000,Karachi,Cash,1998.0
+300,Suzuki,Used,CNG,74000.0,Swift,215000,Karachi,Cash,1989.0
+301,Toyota,New,Petrol,36000.0,Aqua,1650000,Karachi,Cash,2015.0
+302,Suzuki,Used,CNG,48000.0,Cultus VXL,570000,Karachi,Cash,2006.0
+303,Suzuki,Used,Petrol,100000.0,Mehran VXR,400000,Karachi,Cash,2010.0
+304,Honda,New,CNG,153000.0,Civic EXi,450000,Karachi,Cash,1998.0
+305,Toyota,Used,Petrol,76000.0,Vitz,1060000,Karachi,Cash,2009.0
+306,Hyundai,Used,CNG,100000.0,Santro,500000,Karachi,Cash,2001.0
+307,Nissan,Used,Petrol,15000.0,Dayz,1200000,Karachi,Cash,2015.0
+308,Suzuki,Used,CNG,1515151.0,Mehran VX,315000,Karachi,Cash,2008.0
+309,Toyota,New,CNG,105000.0,Corolla Assista,1125000,Karachi,Cash,2002.0
+310,Toyota,Used,Petrol,26000.0,Corolla GLI,1810000,Karachi,Cash,2016.0
+311,Honda,Used,CNG,1.0,City IVTEC,520000,Karachi,Cash,2000.0
+312,Hyundai,Used,CNG,70000.0,Santro,270000,Karachi,Cash,2001.0
+313,Honda,Used,Petrol,1234.0,Civic EXi,380000,Karachi,Cash,1999.0
+314,Honda,Used,Petrol,117000.0,City IDSI,860000,Karachi,Cash,2007.0
+315,Suzuki,Used,Petrol,52000.0,Mehran VX,280000,Karachi,Cash,1998.0
+316,Toyota,New,Hybrid,42850.0,Aqua,1900000,Karachi,Cash,2015.0
+317,Daihatsu,New,Petrol,8400.0,Mira,1225000,Karachi,Cash,2015.0
+318,Honda,Used,Petrol,74000.0,Civic VTi Oriel Prosmatec,1375000,Karachi,Cash,2011.0
+319,Toyota,New,Petrol,9000.0,Corrolla Altis,2835000,Karachi,Cash,2017.0
+320,Daihatsu,New,Petrol,35000.0,Mira,1250000,Karachi,Cash,2013.0
+321,Toyota,Used,Petrol,1234.0,Sera,575000,Karachi,Cash,1990.0
+322,Honda,Used,Petrol,44000.0,Civic VTi Oriel Prosmatec,1660000,Karachi,Cash,2012.0
+323,Suzuki,Used,Petrol,87000.0,Cultus VXR,660000,Karachi,Cash,2009.0
+324,Honda,Used,CNG,100000.0,City IDSI,775000,Karachi,Cash,2006.0
+325,Suzuki,Used,CNG,1.0,Khyber,260000,Karachi,Cash,1999.0
+326,Suzuki,Used,CNG,59000.0,Cultus VXR,865000,Karachi,Cash,2013.0
+327,Suzuki,Used,CNG,100000.0,FX,120000,Karachi,Cash,1985.0
+328,Suzuki,Used,Petrol,80000.0,Carry,825000,Karachi,Cash,2012.0
+329,Daihatsu,Used,Petrol,88000.0,Hijet,810000,Karachi,Cash,2012.0
+330,Toyota,Used,Petrol,1.0,Vitz,850000,Karachi,Cash,2009.0
+331,Mitsubishi,Used,CNG,100000.0,Lancer,750000,Karachi,Cash,2005.0
+332,Suzuki,Used,CNG,100000.0,FX,120000,Karachi,Cash,1988.0
+333,Daihatsu,New,Petrol,60000.0,Mira,920000,Karachi,Cash,2014.0
+334,Honda,New,Petrol,139000.0,Acty,625000,Karachi,Cash,2010.0
+335,Honda,New,Petrol,69000.0,Civic VTi Oriel Prosmatec,1850000,Karachi,Cash,2014.0
+336,Daihatsu,Used,CNG,545.0,Cuore,320000,Karachi,Cash,2000.0
+337,Suzuki,New,Petrol,19800.0,Cultus VXL,1400000,Karachi,Cash,2018.0
+338,Suzuki,Used,Petrol,69000.0,Bolan,290000,Askoley,Cash,1994.0
+339,Suzuki,Used,CNG,123.0,Bolan,330000,Karachi,Cash,1997.0
+340,Other Brands,Used,Petrol,69000.0,Other,685000,Karachi,Cash,2006.0
+341,Toyota,Used,Petrol,150000.0,Corolla XE,565000,Karachi,Cash,1992.0
+342,Nissan,Used,Petrol,44400.0,Moco,1220000,Karachi,Cash,2014.0
+343,Daihatsu,New,Petrol,28000.0,Mira,1170000,Karachi,Cash,2017.0
+344,Suzuki,Used,Petrol,90000.0,Mehran VX,140000,Karachi,Cash,2006.0
+345,Toyota,Used,Petrol,74516.0,Corolla GLI,1315000,Karachi,Cash,2011.0
+346,Suzuki,Used,CNG,200000.0,Khyber,200000,Karachi,Cash,1992.0
+347,Suzuki,Used,Petrol,333333.0,Khyber,235000,Karachi,Cash,1989.0
+348,Suzuki,Used,CNG,1.0,Mehran VX,300000,Karachi,Cash,2005.0
+349,Suzuki,Used,CNG,89300.0,Alto,534999,Karachi,Cash,2010.0
+350,Suzuki,Used,Petrol,71000.0,Alto,520000,Karachi,Cash,2008.0
+351,Suzuki,Used,CNG,125000.0,Cultus VXR,400000,Karachi,Cash,2000.0
+352,Daihatsu,Used,Petrol,22000.0,Mira,1170000,Karachi,Cash,2014.0
+353,Suzuki,Used,Petrol,78000.0,Cultus VXR,770000,Karachi,Cash,2012.0
+354,Suzuki,Used,Petrol,1234.0,Mehran VXR,260000,Karachi,Cash,1993.0
+355,Suzuki,Used,CNG,100000.0,Khyber,240000,Karachi,Cash,1995.0
+356,Suzuki,Used,Petrol,750000.0,Every,820000,Karachi,Cash,2010.0
+357,Suzuki,New,CNG,97500.0,Khyber,360000,Karachi,Cash,1997.0
+358,Suzuki,Used,Petrol,30000.0,Cultus VXR,575000,Khanpur,Cash,2007.0
+359,Honda,Used,CNG,120000.0,City IDSI,530000,Karachi,Cash,2002.0
+360,KIA,New,CNG,198000.0,Pride,250000,Karachi,Cash,1996.0
+361,Suzuki,Used,CNG,1000.0,Margalla,285000,Karachi,Cash,1997.0
+362,Suzuki,Used,CNG,1.0,Khyber,235000,Karachi,Cash,1990.0
+363,Toyota,Used,Petrol,84000.0,Corolla GLI,1125000,Karachi,Cash,2011.0
+364,Suzuki,Used,Petrol,20000.0,Wagon R,1260000,Karachi,Cash,2017.0
+365,Toyota,New,Hybrid,30500.0,Aqua,1865000,Karachi,Cash,2014.0
+366,Suzuki,Used,CNG,1.0,Bolan,350000,Karachi,Cash,1997.0
+367,Suzuki,Used,Petrol,1.0,Baleno,425000,Karachi,Cash,2003.0
+368,Honda,Used,Petrol,44000.0,City IVTEC,1425000,Karachi,Cash,2013.0
+369,Toyota,Used,Petrol,225000.0,Premio,1225000,Karachi,Cash,2003.0
+370,Suzuki,Used,Petrol,10000.0,Every,880000,Karachi,Cash,2011.0
+371,Suzuki,Used,CNG,10000.0,Mehran VXR,210000,Karachi,Cash,2005.0
+372,Mercedes,New,Petrol,32999.0,Smart,1865000,Karachi,Cash,2015.0
+373,Toyota,Used,Petrol,112360.0,86,370000,Karachi,Cash,1982.0
+374,Toyota,New,Petrol,11000.0,Corolla XLI,1830000,Karachi,Cash,2017.0
+375,Toyota,Used,Petrol,86000.0,Corolla XLI,1150000,Karachi,Cash,2010.0
+376,Suzuki,New,CNG,70000.0,Cultus VXR,680000,Karachi,Cash,2010.0
+377,Nissan,Used,Petrol,90026.0,March,680000,Karachi,Cash,2006.0
+378,Daihatsu,Used,Petrol,43500.0,Mira,1100000,Karachi,Cash,2014.0
+379,Suzuki,New,CNG,5000.0,Bolan,520000,Karachi,Cash,2007.0
+380,Toyota,Used,CNG,80000.0,Corolla GLI,1490000,Karachi,Cash,2012.0
+381,Honda,Used,CNG,146000.0,Civic VTi,850000,Karachi,Cash,2005.0
+382,Honda,Used,Petrol,170000.0,Civic Prosmetic,685000,Karachi,Cash,2002.0
+383,Toyota,Used,Petrol,53001.0,Corolla XLI,1575000,Karachi,Cash,2014.0
+384,Other Brands,New,Petrol,1.0,Other,635000,Karachi,Cash,2008.0
+385,Suzuki,Used,Petrol,42500.0,Wagon R,1025000,Karachi,Cash,2016.0
+386,Toyota,Used,Petrol,1020000.0,Corolla GLI,1080000,Karachi,Cash,2008.0
+387,Nissan,Used,Petrol,9999.0,Sunny,500000,Karachi,Cash,1998.0
+388,Mazda,Used,Petrol,78000.0,Demio,812000,Karachi,Cash,2007.0
+389,Suzuki,Used,Hybrid,111111.0,Mehran VX,199000,Karachi,Cash,2003.0
+390,KIA,Used,CNG,100000.0,Sportage,845000,Karachi,Cash,2005.0
+391,Honda,Used,CNG,386700.0,City IDSI,380000,Karachi,Cash,1998.0
+392,Toyota,New,Petrol,81000.0,Corolla XLI,1185000,Karachi,Cash,2009.0
+393,Suzuki,New,CNG,75000.0,Bolan,490000,Karachi,Cash,2008.0
+394,Suzuki,Used,CNG,88000.0,Alto,500000,Karachi,Cash,2009.0
+395,Suzuki,Used,CNG,100000.0,Mehran VXR,290000,Karachi,Cash,2007.0
+396,Suzuki,Used,Petrol,60.0,Bolan,420000,Karachi,Cash,2003.0
+397,Toyota,Used,Petrol,125000.0,Corona,240000,Karachi,Cash,1973.0
+398,Toyota,Used,Petrol,21000.0,Passo,1560000,Karachi,Cash,2015.0
+399,Daihatsu,Used,CNG,100000.0,Charade,255000,Karachi,Cash,1987.0
+400,Toyota,New,Petrol,65000.0,Vitz,1400000,Karachi,Cash,2012.0
+401,Suzuki,Used,CNG,60000.0,Cultus VXR,665000,Karachi,Cash,2011.0
+402,Toyota,Used,Petrol,78500.0,Vitz,1100000,Karachi,Cash,2009.0
+403,Mitsubishi,Used,CNG,170000.0,Lancer,400000,Karachi,Cash,1997.0
+404,Suzuki,Used,Petrol,31258.0,Mehran VXR,580000,Karachi,Cash,2014.0
+405,Honda,Used,Petrol,1.0,Civic VTi Oriel Prosmatec,750000,Karachi,Cash,2004.0
+406,Suzuki,Used,CNG,185252.0,Alto,380000,Karachi,Cash,2006.0
+407,Toyota,Used,Hybrid,86000.0,Aqua,1800000,Karachi,Cash,2014.0
+408,Toyota,Used,CNG,152400.0,Corolla GLI,600000,Karachi,Cash,1998.0
+409,Honda,Used,Petrol,70000.0,City IVTEC,1396000,Karachi,Cash,2013.0
+410,Honda,Used,Petrol,83000.0,Civic VTi Oriel Prosmatec,1090000,Karachi,Cash,2011.0
+411,Suzuki,Used,Petrol,100000.0,Cultus VXR,650000,Karachi,Cash,2009.0
+412,Honda,Used,Petrol,123456.0,Civic Prosmetic,840000,Karachi,Cash,2005.0
+413,Suzuki,Used,Petrol,28000.0,Alto,1215000,Karachi,Cash,2014.0
+414,Honda,Used,Petrol,73000.0,Accord,985000,Karachi,Cash,2003.0
+415,Toyota,Used,Petrol,2222.0,Passo,760000,Karachi,Cash,2006.0
+416,Suzuki,New,Petrol,98525.0,Every Wagon,1320000,Karachi,Cash,2012.0
+417,Suzuki,Used,Petrol,80000.0,Cultus VXR,480000,Karachi,Cash,2004.0
+418,Daihatsu,Used,Petrol,113000.0,Cuore,555000,Karachi,Cash,2005.0
+419,Suzuki,Used,CNG,569803.0,FX,100000,Quetta,Cash,1987.0
+420,Suzuki,Used,Petrol,66000.0,Swift,1050000,Karachi,Cash,2012.0
+421,Honda,Used,Petrol,124000.0,Civic Hybrid,696000,Karachi,Cash,2005.0
+422,Suzuki,Used,CNG,71000.0,Cultus VXR,780000,Karachi,Cash,2011.0
+423,Suzuki,Used,CNG,88.0,Mehran VX,160000,Karachi,Cash,1991.0
+424,Suzuki,Used,Petrol,60000.0,Alto,635000,Karachi,Cash,2012.0
+425,Honda,Used,Petrol,175000.0,Civic EXi,750000,Karachi,Cash,2005.0
+426,Honda,Used,Petrol,110000.0,City IDSI,935000,Karachi,Cash,2008.0
+427,Honda,Used,Petrol,124000.0,Accord,1150000,Karachi,Cash,2007.0
+428,Suzuki,Used,CNG,77000.0,Swift,930000,Karachi,Cash,2010.0
+429,Daihatsu,Used,Petrol,40000.0,Mira,1195000,Karachi,Cash,2015.0
+430,Nissan,Used,CNG,120000.0,AD Van,885000,Karachi,Cash,2007.0
+431,Suzuki,New,Petrol,98552.0,Every Wagon,1320000,Karachi,Cash,2012.0
+432,Suzuki,Used,CNG,100000.0,Mehran VXR,210000,Karachi,Cash,2005.0
+433,Suzuki,Used,CNG,150000.0,Mehran VX,305000,Karachi,Cash,2004.0
+434,Suzuki,Used,CNG,1.0,Alto,350000,Karachi,Cash,2005.0
+435,Suzuki,Used,CNG,95000.0,Alto,450000,Karachi,Cash,2007.0
+436,Toyota,Used,Petrol,95000.0,Duet,530000,Karachi,Cash,2002.0
+437,Suzuki,Used,Petrol,1234.0,Liana,460000,Karachi,Cash,2008.0
+438,Daihatsu,Used,Petrol,72400.0,Mira,745000,Karachi,Cash,2006.0
+439,Honda,Used,Petrol,96000.0,Civic VTi,945000,Karachi,Cash,2006.0
+440,Daihatsu,Used,CNG,8886.0,Charade,185000,Karachi,Cash,1984.0
+441,Nissan,Used,CNG,999999.0,Sunny,120000,Karachi,Cash,1985.0
+442,Toyota,Used,Petrol,100000.0,Passo,850000,Karachi,Cash,2013.0
+443,Toyota,Used,Petrol,90000.0,Corolla XLI,860000,Karachi,Cash,2006.0
+444,Suzuki,Used,CNG,196000.0,Alto,375000,Karachi,Cash,2004.0
+445,Suzuki,New,CNG,580.0,Liana,540000,Karachi,Cash,2006.0
+446,Mitsubishi,Used,CNG,122000.0,Lancer,690000,Karachi,Cash,2005.0
+447,Toyota,Used,Petrol,24000.0,Corrolla Altis,2750000,Karachi,Cash,2017.0
+448,Suzuki,Used,Petrol,46600.0,Mehran VXR,600000,Karachi,Cash,2015.0
+449,Honda,Used,Hybrid,32000.0,Vezel,3200000,Karachi,Cash,2014.0
+450,Toyota,Used,CNG,82000.0,Corolla XLI,835000,Karachi,Cash,2006.0
+451,Suzuki,New,CNG,103000.0,Alto,413000,Karachi,Cash,2005.0
+452,Toyota,Used,CNG,150000.0,Corolla XLI,1140000,Karachi,Cash,2011.0
+453,Suzuki,Used,CNG,90000.0,Bolan,300000,Karachi,Cash,1990.0
+454,Suzuki,Used,CNG,1.0,Alto,550000,Karachi,Cash,2008.0
+455,Suzuki,New,Petrol,53000.0,Cultus VXR,950000,Karachi,Cash,2014.0
+456,Suzuki,Used,CNG,78454.0,Alto,675000,Karachi,Cash,2012.0
+457,Honda,Used,Petrol,91000.0,Civic Prosmetic,850000,Karachi,Cash,2005.0
+458,Suzuki,Used,CNG,60000.0,Bolan,300000,Karachi,Cash,1994.0
+459,Toyota,Used,Petrol,125000.0,Vitz,935000,Karachi,Cash,2007.0
+460,Hyundai,Used,CNG,5000.0,Santro,480000,Karachi,Cash,2004.0
+461,Suzuki,New,CNG,90000.0,Alto,320000,Karachi,Cash,2001.0
+462,Toyota,New,Petrol,51000.0,Vitz,1095000,Karachi,Cash,2010.0
+463,Suzuki,Used,CNG,123654.0,Khyber,250000,Karachi,Cash,1996.0
+464,Honda,Used,CNG,19000.0,City IDSI,750000,Karachi,Cash,2005.0
+465,Daihatsu,Used,Petrol,149980.0,Cuore,485000,Karachi,Cash,2005.0
+466,Honda,Used,Petrol,60950.0,City Aspire,1469000,Karachi,Cash,2013.0
+467,Daihatsu,Used,CNG,100000.0,Charade,140000,Karachi,Cash,1983.0
+468,Honda,Used,Petrol,58000.0,Civic VTi Oriel Prosmatec,1775000,Karachi,Cash,2013.0
+469,Suzuki,New,Petrol,85000.0,Cultus VXR,525000,Karachi,Cash,2007.0
+470,Honda,New,Petrol,78000.0,City Aspire,1300000,Karachi,Cash,2012.0
+471,Suzuki,Used,Petrol,200000.0,Liana,520000,Karachi,Cash,2006.0
+472,Suzuki,New,Petrol,52.0,Mehran VXR,505000,Karachi,Cash,2014.0
+473,Suzuki,Used,CNG,191000.0,Baleno,550000,Karachi,Cash,2003.0
+474,Honda,New,Petrol,54000.0,Civic Prosmetic,1060000,Karachi,Cash,2007.0
+475,Suzuki,Used,Petrol,90000.0,Alto,470000,Karachi,Cash,2007.0
+476,Toyota,New,Petrol,78000.0,Vitz,995000,Karachi,Cash,2008.0
+477,Suzuki,Used,CNG,78000.0,Alto,370000,Karachi,Cash,2007.0
+478,Toyota,Used,Petrol,19000.0,Corrolla Altis,2250000,Karachi,Cash,2017.0
+479,Suzuki,Used,Petrol,85000.0,Cultus VXR,435000,Karachi,Cash,2006.0
+480,Suzuki,Used,CNG,900000.0,Bolan,280000,Karachi,Cash,1989.0
+481,Toyota,Used,Petrol,90000.0,Vitz,825000,Karachi,Cash,2003.0
+482,Toyota,Used,Petrol,84000.0,Corolla GLI,1575000,Karachi,Cash,2013.0
+483,Suzuki,Used,CNG,10000.0,Khyber,235000,Karachi,Cash,1996.0
+484,Suzuki,Used,CNG,40000.0,Bolan,480000,Karachi,Cash,2007.0
+485,Suzuki,Used,CNG,1234.0,Alto,665000,Karachi,Cash,2012.0
+486,Honda,Used,CNG,179000.0,City IDSI,760000,Karachi,Cash,2004.0
+487,Toyota,Used,Petrol,67000.0,Corolla GLI,1750000,Karachi,Cash,2014.0
+488,Suzuki,New,CNG,55000.0,Mehran VXR,310000,Karachi,Cash,2003.0
+489,Honda,Used,Petrol,48288.0,Civic VTi Oriel Prosmatec,1370000,Karachi,Cash,2010.0
+490,Suzuki,New,Petrol,51000.0,Cultus VXR,795000,Karachi,Cash,2011.0
+491,Suzuki,New,Petrol,74000.0,Margalla,355000,Karachi,Cash,1995.0
+492,Suzuki,Used,Hybrid,10000.0,Swift,190000,Karachi,Installment/Leasing,1990.0
+493,Toyota,Used,CNG,72321.0,Corolla XLI,1285000,Karachi,Cash,2013.0
+494,Toyota,Used,Petrol,150000.0,Corolla Axio,1600000,Karachi,Cash,2014.0
+495,Suzuki,Used,Petrol,52000.0,Cultus VXR,900000,Karachi,Cash,2013.0
+496,Honda,Used,Petrol,76000.0,City Vario,850000,Karachi,Cash,2008.0
+497,Toyota,Used,Petrol,80000.0,Corolla Fielder,1425000,Karachi,Cash,2006.0
+498,Honda,Used,Petrol,140000.0,City IVTEC,1120000,Karachi,Cash,2010.0
+499,Toyota,New,Petrol,25000.0,Corolla GLI,1500000,Karachi,Cash,2010.0
+500,Suzuki,New,Petrol,56000.0,Alto,590000,Karachi,Cash,2012.0
+501,Suzuki,Used,CNG,80000.0,Alto,475000,Karachi,Cash,2007.0
+502,Suzuki,Used,CNG,135.0,Margalla,265000,Karachi,Cash,1994.0
+503,Honda,Used,CNG,1.0,Civic VTi,485000,Karachi,Cash,1996.0
+504,Toyota,New,Petrol,87000.0,Corolla GLI,1200000,Karachi,Cash,2010.0
+505,Nissan,Used,CNG,121222.0,AD Van,670000,Karachi,Cash,2012.0
+506,Suzuki,Used,CNG,26000.0,Mehran VX,145000,Karachi,Cash,1990.0
+507,Toyota,New,Petrol,19000.0,Corolla XLI,1995000,Karachi,Cash,2017.0
+508,Toyota,Used,Petrol,78500.0,Corolla GLI,1400000,Karachi,Cash,2013.0
+509,Toyota,Used,Petrol,106000.0,Corolla XLI,1285000,Karachi,Cash,2011.0
+510,Nissan,Used,Petrol,1.0,March,440000,Karachi,Cash,2006.0
+511,Suzuki,Used,CNG,258.0,Mehran VX,235000,Karachi,Cash,2002.0
+512,Toyota,Used,Petrol,63000.0,Vitz,820000,Karachi,Cash,2007.0
+513,Suzuki,Used,CNG,46393.0,Mehran VXR,185000,Karachi,Cash,1994.0
+514,Suzuki,Used,CNG,65000.0,Cultus VXR,670000,Karachi,Cash,2010.0
+515,Suzuki,Used,CNG,3500.0,Palette Sw,290000,Karachi,Cash,2007.0
+516,Suzuki,Used,LPG,10000.0,Bolan,145000,Karachi,Cash,1984.0
+517,Toyota,Used,Petrol,78000.0,Platz,770000,Karachi,Cash,2003.0
+518,Daihatsu,Used,CNG,86000.0,Cuore,420000,Karachi,Cash,2004.0
+519,Toyota,Used,Petrol,94000.0,Vitz,995000,Karachi,Cash,2008.0
+520,Suzuki,Used,CNG,120000.0,Cultus VXR,550000,Karachi,Cash,2007.0
+521,Toyota,Used,Petrol,115000.0,Vitz,835000,Karachi,Cash,2005.0
+522,Toyota,Used,Petrol,42500.0,Vitz,1390000,Karachi,Cash,2013.0
+523,Toyota,Used,Petrol,100000.0,Corolla GLI,1070000,Karachi,Cash,2009.0
+524,Suzuki,Used,Petrol,48789.0,Cultus VXR,818000,Karachi,Cash,2014.0
+525,Toyota,Used,Petrol,95500.0,Vitz,1350000,Karachi,Cash,2013.0
+526,Suzuki,Used,Petrol,8000.0,Cultus VXR,400000,Karachi,Cash,2001.0
+527,Toyota,New,Petrol,15500.0,Corolla GLI,1820000,Karachi,Cash,2015.0
+528,Toyota,Used,Diesel,100000.0,Hilux,2650000,Karachi,Cash,2007.0
+529,Daewoo,New,CNG,2550.0,Racer,160000,Karachi,Cash,1996.0
+530,Suzuki,Used,Petrol,100000.0,Alto,380000,Karachi,Cash,2001.0
+531,Honda,Used,Petrol,80182.0,City Vario,685000,Karachi,Cash,2005.0
+532,Classic & Antiques,Used,Petrol,123456.0,Other,650000,Karachi,Cash,1964.0
+533,Suzuki,Used,CNG,50000.0,FX,90000,Karachi,Cash,1987.0
+534,Suzuki,Used,Petrol,69000.0,Cultus VXR,710000,Karachi,Cash,2012.0
+535,Toyota,New,Petrol,43946.0,Corolla GLI,1810000,Karachi,Cash,2016.0
+536,Mitsubishi,Used,CNG,5000.0,Lancer Evolution,85000,Karachi,Cash,1986.0
+537,Suzuki,Used,Petrol,13800.0,Cultus VXR,1025000,Karachi,Cash,2016.0
+538,Honda,Used,CNG,79250.0,Civic EXi,775000,Karachi,Cash,2005.0
+539,Toyota,Used,Petrol,85000.0,Corolla GLI,1150000,Karachi,Cash,2010.0
+540,Honda,Used,Petrol,75000.0,City IDSI,670000,Karachi,Cash,2005.0
+541,Suzuki,Used,Petrol,75000.0,Alto,690000,Karachi,Cash,2008.0
+542,Honda,New,Petrol,21900.0,Civic VTi Oriel Prosmatec,2725000,Karachi,Cash,2017.0
+543,Suzuki,Used,CNG,100000.0,Other,220000,Karachi,Cash,1984.0
+544,Honda,Used,Petrol,123456.0,Civic VTi Oriel Prosmatec,1020000,Karak,Cash,2007.0
+545,Honda,Used,Petrol,60986.0,City IDSI,950000,Karachi,Cash,2006.0
+546,Suzuki,Used,Petrol,38000.0,Mehran VXR,510000,Karachi,Cash,2014.0
+547,Honda,Used,Petrol,1.0,Civic EXi,690000,Karachi,Cash,2002.0
+548,Toyota,Used,CNG,147000.0,Corolla XE,560000,Karachi,Cash,1999.0
+549,Daihatsu,Used,Petrol,67000.0,Mira,900000,Karachi,Cash,2012.0
+550,Honda,Used,Petrol,76550.0,Civic Prosmetic,785000,Karachi,Cash,2005.0
+551,Toyota,Used,Petrol,117000.0,Corolla GLI,1465000,Karachi,Cash,2012.0
+552,Suzuki,New,Petrol,71500.0,Cultus VXR,670000,Karachi,Cash,2010.0
+553,Daihatsu,Used,CNG,1.0,Cuore,370000,Karachi,Cash,2005.0
+554,Suzuki,Used,CNG,43000.0,Margalla,265000,Karachi,Cash,1993.0
+555,Toyota,Used,CNG,125000.0,Corolla XLI,850000,Karachi,Cash,2006.0
+556,Suzuki,Used,Petrol,43000.0,Alto,660000,Karachi,Cash,2011.0
+557,Nissan,Used,Petrol,147500.0,Sunny,555000,Karachi,Cash,1998.0
+558,Suzuki,Used,CNG,59000.0,Cultus VXR,460000,Karachi,Cash,2005.0
+559,Suzuki,Used,Petrol,92793.0,Cultus VXR,750000,Karachi,Cash,2011.0
+560,Daihatsu,Used,Petrol,75000.0,Cuore,585000,Karachi,Cash,2011.0
+561,Suzuki,Used,Petrol,99000.0,Cultus VXR,550000,Karachi,Cash,2006.0
+562,Honda,Used,Petrol,87800.0,Civic VTi Oriel Prosmatec,1210000,Karachi,Cash,2010.0
+563,Suzuki,New,Petrol,53000.0,Bolan,665000,Karachi,Cash,2015.0
+564,Toyota,Used,Petrol,138000.0,Vitz,835000,Karachi,Cash,2008.0
+565,Toyota,Used,CNG,150000.0,Corolla Assista,1425000,Islamabad,Cash,2006.0
+566,Honda,Used,Petrol,78000.0,Civic Prosmetic,860000,Karachi,Cash,2005.0
+567,Suzuki,Used,Hybrid,145000.0,Bolan,280000,Karachi,Cash,1991.0
+568,Suzuki,Used,CNG,84000.0,Khyber,220000,Karachi,Cash,1992.0
+569,Honda,Used,CNG,1000.0,Civic EXi,175000,Karachi,Cash,1986.0
+570,Toyota,Used,CNG,777.0,Other,520000,Karachi,Cash,1999.0
+571,Suzuki,New,Petrol,86.0,Cultus VXR,780000,Karachi,Cash,2014.0
+572,Daihatsu,Used,Petrol,49000.0,Move,1095000,Karachi,Cash,2014.0
+573,Suzuki,Used,CNG,1.0,Cultus VXR,440000,Lahore,Cash,2004.0
+574,Honda,Used,Petrol,100000.0,City Vario,750000,Karachi,Cash,2005.0
+575,Toyota,New,Petrol,23500.0,Hilux,4600000,Karachi,Cash,2017.0
+576,Daihatsu,Used,Petrol,100000.0,Move,775000,Karachi,Cash,2008.0
+577,Honda,Used,Petrol,137000.0,Civic EXi,415000,Karachi,Cash,1995.0
+578,Toyota,Used,Petrol,47000.0,Corolla GLI,1430000,Karachi,Cash,2013.0
+579,Daihatsu,Used,Petrol,113000.0,Cuore,555000,Karachi,Cash,2005.0
+580,Honda,Used,CNG,129999.0,Civic EXi,580000,Karachi,Cash,2003.0
+581,Toyota,Used,Petrol,105000.0,Corolla XLI,1020000,Karachi,Cash,2009.0
+582,Toyota,Used,CNG,22.0,86,195000,Karachi,Cash,2018.0
+583,Toyota,New,Petrol,21000.0,Prius,2900000,Karachi,Cash,2016.0
+584,Toyota,Used,Petrol,100000.0,Vitz,920000,Karachi,Cash,2006.0
+585,Daihatsu,Used,Petrol,23560.0,Charade,150000,Karachi,Cash,1985.0
+586,Mitsubishi,Used,Petrol,140000.0,Pajero Mini,395000,Karachi,Cash,1997.0
+587,Lexus,New,CNG,200.0,Gx Series,900000,Karachi,Cash,2017.0
+588,Suzuki,Used,CNG,100000.0,Bolan,310000,Karachi,Cash,1997.0
+589,Suzuki,Used,Petrol,60000.0,Alto,1050000,Karachi,Cash,2014.0
+590,Toyota,Used,Petrol,18500.0,Corolla GLI,2050000,Karachi,Cash,2017.0
+591,Suzuki,Used,Petrol,94000.0,Cultus VXR,876000,Karachi,Cash,2013.0
+592,Toyota,Used,Petrol,83858.0,Corolla Axio,1525000,Karachi,Cash,2007.0
+593,Suzuki,Used,CNG,72000.0,Cultus VXR,538000,Karachi,Cash,2007.0
+594,Toyota,Used,Petrol,140000.0,Corrolla Altis,840000,Karachi,Cash,2005.0
+595,Honda,Used,Petrol,85000.0,Civic Prosmetic,875000,Karachi,Cash,2005.0
+596,Suzuki,Used,CNG,86000.0,Alto,410000,Karachi,Cash,2007.0
+597,Suzuki,Used,CNG,30000.0,Bolan,5000000,Karachi,Cash,2008.0
+598,Honda,New,Petrol,1.0,Civic VTi Oriel Prosmatec,3090000,Karachi,Cash,2018.0
+599,Mitsubishi,Used,Petrol,123000.0,Lancer,725000,Karachi,Cash,2005.0
+600,Suzuki,Used,CNG,85930.0,Alto,590000,Karachi,Cash,2010.0
+601,Toyota,New,Petrol,26000.0,Corolla GLI,1850000,Karachi,Cash,2016.0
+602,BMW,Used,Diesel,157000.0,5 Series,2000000,Karachi,Cash,2007.0
+603,Toyota,New,Petrol,14426.0,Corrolla Altis,2310000,Karachi,Cash,2017.0
+604,Suzuki,Used,CNG,65000.0,Cultus VXR,610000,Karachi,Cash,2008.0
+605,Toyota,Used,Petrol,85000.0,Prado,4000000,Karachi,Cash,2005.0
+606,Suzuki,Used,Petrol,80000.0,Alto,1000000,Karachi,Cash,2014.0
+607,Toyota,New,Hybrid,105000.0,Aqua,1760000,Karachi,Cash,2014.0
+608,Toyota,Used,Petrol,76500.0,Corolla GLI,1340000,Karachi,Cash,2011.0
+609,Toyota,Used,CNG,7500.0,Sera,600000,Karachi,Cash,1992.0
+610,Daihatsu,New,Petrol,35500.0,Move,1280000,Karachi,Cash,2015.0
+611,Suzuki,Used,Petrol,44000.0,Wagon R,835000,Karachi,Cash,2015.0
+612,Suzuki,Used,CNG,70000.0,Khyber,210000,Karachi,Cash,1997.0
+613,Daihatsu,New,Petrol,76000.0,Mira,1000000,Karachi,Cash,2013.0
+614,Suzuki,Used,Petrol,46000.0,Cultus VXR,930000,Karachi,Cash,2014.0
+615,Suzuki,Used,CNG,1.0,Mehran VX,300000,Karachi,Cash,2006.0
+616,Nissan,Used,Diesel,54321.0,Sunny,170000,Karachi,Cash,1993.0
+617,Daihatsu,Used,Petrol,160000.0,Mira,750000,Karachi,Cash,2008.0
+618,Suzuki,Used,CNG,85000.0,Alto,380000,Karachi,Cash,2006.0
+619,Daihatsu,Used,Petrol,49000.0,Mira,830000,Karachi,Cash,2013.0
+620,Daihatsu,Used,CNG,9999.0,Charade,210000,Karachi,Cash,1986.0
+621,Chevrolet,Used,Petrol,1.0,Joy,410000,Karachi,Cash,2009.0
+622,Honda,Used,Petrol,48000.0,City IVTEC,1425000,Karachi,Cash,2012.0
+623,Toyota,Used,Petrol,400000.0,Corolla XLI,880000,Karachi,Cash,2005.0
+624,Toyota,New,Petrol,19000.0,Corolla GLI,1975000,Karachi,Cash,2016.0
+625,Toyota,New,Petrol,51000.0,Vitz,995000,Karachi,Cash,2010.0
+626,Toyota,Used,Petrol,56000.0,Corolla GLI,1750000,Karachi,Cash,2015.0
+627,Toyota,Used,CNG,120000.0,Corrolla Altis,865000,Karachi,Cash,2003.0
+628,Toyota,Used,Petrol,88000.0,Corolla XLI,848000,Karachi,Cash,2006.0
+629,Suzuki,Used,CNG,78000.0,Cultus VXR,565000,Karachi,Cash,2007.0
+630,Suzuki,New,CNG,620000.0,Mehran VX,375000,Karachi,Cash,2010.0
+631,Honda,Used,Petrol,150000.0,Civic VTi,950000,Karachi,Cash,2008.0
+632,Mercedes,Used,Petrol,100000.0,240 Gd,480000,Karachi,Cash,1991.0
+633,Suzuki,Used,Petrol,78000.0,Cultus VXR,550000,Karachi,Cash,2008.0
+634,Suzuki,Used,CNG,52000.0,Alto,525000,Karachi,Cash,2012.0
+635,Daihatsu,Used,Petrol,68000.0,Mira Cocoa,750000,Karachi,Cash,2008.0
+636,Suzuki,Used,Petrol,82000.0,Cultus VXL,570000,Karachi,Cash,2006.0
+637,Suzuki,Used,Petrol,99685.0,Mehran VXR,425000,Karachi,Cash,2012.0
+638,Daihatsu,Used,Petrol,72000.0,Terios Kid,1149000,Karachi,Cash,2010.0
+639,Daihatsu,Used,Petrol,10000.0,Mira,990000,Karachi,Cash,2015.0
+640,Suzuki,Used,CNG,7655.0,Cultus VXL,535000,Karachi,Cash,2006.0
+641,Suzuki,Used,Petrol,110698.0,Cultus VXR,785000,Karachi,Cash,2012.0
+642,Honda,Used,Petrol,786.0,Civic VTi,600000,Karachi,Cash,1998.0
+643,Suzuki,Used,Petrol,21600.0,Mehran VXR,745000,Karachi,Cash,2017.0
+644,Toyota,Used,Petrol,61.0,Corolla XLI,1340000,Karachi,Cash,2013.0
+645,Suzuki,Used,CNG,250000.0,Khyber,220000,Karachi,Cash,1991.0
+646,Honda,Used,Petrol,100000.0,City Vario,850000,Karachi,Cash,2006.0
+647,Suzuki,Used,CNG,1.0,Cultus VXR,480000,Karachi,Cash,2007.0
+648,Honda,Used,CNG,123654.0,City IVTEC,635000,Karachi,Cash,2005.0
+649,Toyota,Used,Petrol,65000.0,Corrolla Altis,1625000,Karachi,Cash,2013.0
+650,Honda,Used,CNG,1.0,Civic EXi,550000,Karachi,Cash,2001.0
+651,Nissan,Used,Petrol,119000.0,Wingroad,1150000,Karachi,Cash,2007.0
+652,Suzuki,Used,Petrol,57000.0,Every,725000,Karachi,Cash,2014.0
+653,Suzuki,Used,Petrol,43000.0,Wagon R,1175000,Karachi,Cash,2016.0
+654,Daihatsu,Used,Petrol,15000.0,Charade,125000,Karachi,Cash,1985.0
+655,Toyota,New,Petrol,87000.0,Corolla GLI,1300000,Karachi,Cash,2011.0
+656,Suzuki,New,CNG,65000.0,Cultus VXR,745000,Karachi,Cash,2013.0
+657,Honda,Used,Petrol,26000.0,City IVTEC,1650000,Karachi,Cash,2016.0
+658,Suzuki,Used,Petrol,40000.0,Mehran VX,460000,Karachi,Cash,2012.0
+659,Toyota,Used,Petrol,88000.0,Premio,1275000,Karachi,Cash,2007.0
+660,Toyota,Used,Petrol,106630.0,Corolla XLI,1165000,Karachi,Cash,2011.0
+661,Suzuki,New,CNG,1200.0,Margalla,295000,Karachi,Cash,1993.0
+662,Toyota,New,Petrol,56000.0,Passo,1090000,Karachi,Cash,2010.0
+663,Toyota,Used,Petrol,27000.0,Vitz,975000,Karachi,Cash,2013.0
+664,Suzuki,Used,Petrol,115000.0,Swift,850000,Karachi,Cash,2010.0
+665,Honda,Used,Petrol,73000.0,Civic VTi Oriel Prosmatec,1325000,Karachi,Cash,2011.0
+666,Suzuki,Used,CNG,412002.0,Khyber,284999,Karachi,Cash,1998.0
+667,Suzuki,Used,Petrol,50000.0,Alto,590000,Islamabad,Cash,2012.0
+668,Suzuki,Used,Petrol,50000.0,Mehran VXR,370000,Karachi,Cash,2009.0
+669,Daewoo,Used,CNG,90000.0,Racer,180000,Karachi,Cash,1996.0
+670,Toyota,Used,Petrol,71000.0,Corolla GLI,1350000,Karachi,Cash,2012.0
+671,Toyota,Used,CNG,120000.0,Corolla XE,665000,Karachi,Cash,1999.0
+672,Daihatsu,Used,CNG,67000.0,Mira,1020000,Karachi,Cash,2014.0
+673,Honda,Used,Petrol,1.0,Civic Prosmetic,1250000,Karachi,Cash,2010.0
+674,Suzuki,Used,Petrol,79000.0,Liana,541000,Karachi,Cash,2006.0
+675,Suzuki,Used,CNG,57000.0,Alto,615000,Karachi,Cash,2011.0
+676,Suzuki,Used,CNG,1122.0,Alto,450000,Karachi,Cash,2008.0
+677,Suzuki,Used,Petrol,47000.0,Alto,650000,Karachi,Cash,2012.0
+678,Toyota,Used,Hybrid,118000.0,Prius,2350000,Karachi,Cash,2014.0
+679,Suzuki,Used,CNG,1.0,Alto,365000,Karachi,Cash,2004.0
+680,Suzuki,Used,Petrol,80000.0,Cultus VXR,770000,Karachi,Cash,2011.0
+681,Honda,Used,CNG,150000.0,Other,545000,Karachi,Cash,2000.0
+682,Toyota,Used,Petrol,74000.0,Belta,1225000,Karachi,Cash,2011.0
+683,Daihatsu,Used,Petrol,48000.0,Atrai Wagon,1025000,Karachi,Cash,2011.0
+684,Suzuki,Used,CNG,1.0,Cultus VXR,620000,Karachi,Cash,2008.0
+685,Toyota,Used,Petrol,145500.0,Vitz,725000,Karachi,Cash,1999.0
+686,Suzuki,Used,Petrol,3210.0,Alto,521000,Karachi,Cash,2011.0
+687,Mitsubishi,Used,Petrol,90000.0,Minicab Bravo,625000,Karachi,Cash,2011.0
+688,Suzuki,New,CNG,70000.0,Liana,525000,Karachi,Cash,2006.0
+689,Suzuki,New,Petrol,50000.0,Alto,485000,Karachi,Cash,2008.0
+690,Suzuki,Used,Petrol,102500.0,Liana,669000,Karachi,Cash,2011.0
+691,Toyota,Used,Petrol,125000.0,Corolla XE,845000,Karachi,Cash,2004.0
+692,Suzuki,Used,CNG,85000.0,Cultus VXR,520000,Karachi,Cash,2006.0
+693,Suzuki,Used,Petrol,56000.0,Cultus VXR,875000,Karachi,Cash,2014.0
+694,Suzuki,Used,CNG,99999.0,FX,80000,Karachi,Cash,1988.0
+695,Suzuki,Used,Petrol,1234.0,Mehran VX,205000,Karachi,Cash,1997.0
+696,Suzuki,Used,CNG,1.0,Alto,365000,Karachi,Cash,2004.0
+697,Toyota,New,Petrol,73200.0,Allion,1195000,Karachi,Cash,2003.0
+698,Daihatsu,Used,CNG,1.0,Cuore,380000,Karachi,Cash,2003.0
+699,Toyota,Used,Petrol,100000.0,Vitz,1035000,Karachi,Cash,2009.0
+700,Toyota,Used,Petrol,99999.0,Corolla XLI,1265000,Karachi,Cash,2012.0
+701,Nissan,New,Petrol,25000.0,Moco,1075000,Karachi,Cash,2014.0
+702,Toyota,Used,Petrol,100000.0,Vitz,1035000,Karachi,Cash,2009.0
+703,Toyota,Used,Petrol,99999.0,Corolla XLI,1265000,Karachi,Cash,2012.0
+704,Nissan,New,Petrol,25000.0,Moco,1075000,Karachi,Cash,2014.0
+705,Daihatsu,New,Petrol,94000.0,Cuore,675000,Karachi,Cash,2009.0
+706,Honda,Used,Petrol,155000.0,Civic VTi Oriel,800000,Karachi,Cash,2005.0
+707,Nissan,Used,Petrol,152636.0,Blue Bird,125000,Karachi,Cash,1969.0
+708,Toyota,Used,Petrol,94000.0,Vitz,1275000,Karachi,Cash,2011.0
+709,Toyota,New,Petrol,52999.0,Corolla GLI,1720000,Karachi,Cash,2014.0
+710,Suzuki,Used,CNG,1.0,Mehran VX,160000,Karachi,Cash,1990.0
+711,Suzuki,Used,Petrol,38000.0,Alto,515000,Karachi,Cash,2008.0
+712,Suzuki,Used,CNG,68954.0,Bolan,572500,Karachi,Cash,2012.0
+713,Suzuki,Used,CNG,25000.0,Khyber,230000,Karachi,Cash,1996.0
+714,Suzuki,Used,CNG,100000.0,Bolan,160000,Karachi,Cash,1985.0
+715,Toyota,Used,Petrol,1.0,Corrolla Altis,1400000,Karachi,Cash,2010.0
+716,Suzuki,Used,Petrol,1.0,Margalla,250000,Karachi,Cash,1995.0
+717,Toyota,New,Petrol,42000.0,Vitz,1400000,Karachi,Cash,2014.0
+718,Toyota,Used,Petrol,95000.0,Corolla XLI,1080000,Karachi,Cash,2009.0
+719,Suzuki,Used,CNG,100000.0,Cultus VXR,485000,Karachi,Cash,2006.0
+720,Suzuki,Used,Hybrid,2500.0,Alto,1025000,Sialkot,Cash,2018.0
+721,Honda,New,Petrol,9000.0,City IVTEC,1800000,Karachi,Cash,2017.0
+722,Honda,Used,Petrol,100000.0,Civic VTi Oriel Prosmatec,700000,Karachi,Cash,2002.0
+723,Toyota,Used,Petrol,135000.0,Platz,600000,Karachi,Cash,2006.0
+724,Hyundai,Used,Petrol,1.0,Santro,460000,Karachi,Cash,2005.0
+725,Suzuki,Used,CNG,70000.0,Mehran VX,385000,Karachi,Cash,2011.0
+726,Suzuki,New,Petrol,1.0,Mehran VXR,840000,Karachi,Cash,2018.0
+727,Toyota,New,Hybrid,31000.0,Aqua,2100000,Karachi,Cash,2015.0
+728,Toyota,New,Petrol,89000.0,Vitz,1035000,Karachi,Cash,2009.0
+729,Suzuki,New,CNG,64500.0,Mehran VXR,475000,Karachi,Cash,2011.0
+730,Suzuki,Used,Petrol,60000.0,Cultus VXR,550000,Karachi,Cash,2007.0
+731,Suzuki,Used,CNG,75000.0,FX,75000,Karachi,Cash,1986.0
+732,Toyota,Used,Petrol,91000.0,Corolla XE,825000,Karachi,Cash,2002.0
+733,Chevrolet,New,Petrol,80000.0,Exclusive,350000,Karachi,Cash,2005.0
+734,Honda,Used,Petrol,81000.0,Civic Prosmetic,880000,Karachi,Cash,2004.0
+735,Toyota,New,Petrol,16500.0,Corolla GLI,2075000,Karachi,Cash,2016.0
+736,Daihatsu,Used,CNG,12312.0,Charade,255000,Karachi,Cash,1985.0
+737,Nissan,New,CNG,1000.0,Sunny,165000,Karachi,Cash,1985.0
+738,Suzuki,Used,CNG,87000.0,Cultus VXR,530000,Karachi,Cash,2005.0
+739,Suzuki,Used,Petrol,56000.0,Swift,960000,Karachi,Cash,2010.0
+740,Honda,Used,Petrol,32000.0,N Wgn,1178000,Karachi,Cash,2014.0
+741,Toyota,Used,CNG,85000.0,Corolla XLI,935000,Karachi,Cash,2009.0
+742,Suzuki,Used,CNG,3000.0,Alto,415000,Karachi,Cash,2005.0
+743,Nissan,Used,Petrol,100000.0,Dayz Highway Star,1200000,Karachi,Cash,2014.0
+744,Honda,Used,CNG,588.0,City IDSI,380000,Karachi,Cash,1998.0
+745,Suzuki,Used,CNG,1000.0,Mehran VX,210000,Karachi,Cash,1995.0
+746,Suzuki,Used,CNG,121230.0,Liana,490000,Karachi,Cash,2007.0
+747,Toyota,Used,Petrol,90000.0,Vitz,1375000,Karachi,Cash,2012.0
+748,Suzuki,Used,Petrol,106000.0,Cultus VXR,545000,Karachi,Cash,2006.0
+749,Daihatsu,Used,CNG,100.0,Charade,100000,Karachi,Cash,1994.0
+750,Toyota,Used,Hybrid,580000.0,Aqua,1560000,Karachi,Cash,2012.0
+751,Toyota,Used,Petrol,999.0,Corolla GLI,1745000,Karachi,Cash,2015.0
+752,Suzuki,Used,LPG,50000.0,Alto,390000,Karachi,Cash,2007.0
+753,Honda,Used,Petrol,12000.0,City IVTEC,1875000,Karachi,Cash,2017.0
+754,Suzuki,Used,Petrol,76.0,Cultus VXR,625000,Karachi,Cash,2008.0
+755,Suzuki,Used,CNG,121230.0,Liana,490000,Karachi,Cash,2007.0
+756,Suzuki,Used,Petrol,57000.0,Mehran VX,340000,Karachi,Cash,2008.0
+757,Honda,Used,Petrol,86087.0,City IDSI,860000,Karachi,Cash,2008.0
+758,Suzuki,Used,CNG,12345.0,Bolan,355000,Karachi,Cash,1998.0
+759,Suzuki,Used,Petrol,219000.0,Alto,480000,Karachi,Cash,2006.0
+760,Daewoo,Used,CNG,80000.0,Racer,140000,Karachi,Cash,1993.0
+761,Toyota,Used,Petrol,192000.0,Corolla GLI,1200000,Karachi,Cash,2011.0
+762,Toyota,Used,Diesel,65000.0,Surf,2700000,Karachi,Cash,2003.0
+763,Suzuki,Used,Petrol,73000.0,Alto,525000,Karachi,Cash,2008.0
+764,Toyota,New,Petrol,1.0,Belta,1400000,Karachi,Cash,2013.0
+765,Daihatsu,Used,CNG,80000.0,Cuore,420000,Karachi,Cash,2004.0
+766,Suzuki,Used,CNG,92000.0,Alto,570000,Karachi,Cash,2009.0
+767,Toyota,Used,Petrol,44000.0,Corolla GLI,1200000,Karachi,Cash,2009.0
+768,Toyota,New,Petrol,1200.0,Corolla XLI,1300000,Karachi,Cash,2013.0
+769,Toyota,New,Petrol,60000.0,Corolla GLI,1630000,Karachi,Cash,2011.0
+770,Suzuki,Used,Petrol,960000.0,Alto,480000,Karachi,Cash,2007.0
+771,Daihatsu,Used,Petrol,111144.0,Mira,750000,Karachi,Cash,2007.0
+772,Honda,Used,CNG,93000.0,City IDSI,675000,Karachi,Cash,2003.0
+773,Toyota,New,Petrol,24000.0,Corrolla Altis,2800000,Karachi,Cash,2017.0
+774,Suzuki,Used,Hybrid,100000.0,Alto,370000,Karachi,Cash,2005.0
+775,Lexus,New,Hybrid,67000.0,CT200h,2150000,Karachi,Cash,2010.0
+776,Suzuki,Used,Hybrid,1000.0,Alto,395000,Karachi,Cash,2002.0
+777,Honda,Used,Petrol,142000.0,Accord,530000,Karachi,Cash,1998.0
+778,Honda,Used,Petrol,200000.0,Other,400000,Karachi,Cash,1992.0
+779,Suzuki,Used,Petrol,200000.0,Bolan,270000,Karachi,Cash,1990.0
+780,Suzuki,New,Petrol,290000.0,FX,120000,Karachi,Cash,1984.0
+781,Suzuki,Used,Petrol,24500.0,Bolan,650000,Lahore,Cash,2012.0
+782,Suzuki,Used,Petrol,40000.0,Mehran VXR,315000,Karachi,Cash,2006.0
+783,Suzuki,Used,CNG,100000.0,Alto,370000,Karachi,Cash,2005.0
+784,Suzuki,Used,Petrol,53000.0,Every,900000,Karachi,Cash,2018.0
+785,Honda,Used,Petrol,124000.0,Civic Prosmetic,970000,Karachi,Cash,2008.0
+786,Suzuki,Used,Diesel,100000.0,Khyber,290000,Karachi,Cash,1997.0
+787,Honda,Used,Petrol,60000.0,Civic Prosmetic,1400000,Karachi,Cash,2011.0
+788,Toyota,Used,Petrol,80000.0,Corolla GLI,1620000,Karachi,Cash,2013.0
+789,Honda,Used,Petrol,155000.0,City IDSI,950000,Karachi,Cash,2008.0
+790,Honda,Used,Hybrid,160000.0,Civic EXi,180000,Karachi,Cash,1984.0
+791,Suzuki,Used,Petrol,135000.0,Swift,950000,Lahore,Cash,2010.0
+792,Suzuki,Used,Petrol,86000.0,Cultus VXR,620000,Karachi,Cash,2006.0
+793,Toyota,Used,Petrol,87000.0,Vitz,1080000,Karachi,Cash,2010.0
+794,Suzuki,Used,Hybrid,100000.0,Cultus VXR,480000,Karachi,Cash,2005.0
+795,Honda,Used,Petrol,77000.0,Civic Prosmetic,1055000,Karachi,Cash,2007.0
+796,KIA,Used,Diesel,108822.0,Sportage,2400000,Karachi,Cash,2007.0
+797,Toyota,Used,Petrol,65000.0,Corolla XLI,1500000,Karachi,Cash,2013.0
+798,Honda,New,Petrol,76000.0,City IDSI,770000,Karachi,Cash,2005.0
+799,Suzuki,Used,Petrol,82000.0,Alto,485000,Karachi,Cash,2003.0
+800,Toyota,Used,CNG,500000.0,Starlet,235000,Karachi,Cash,1988.0
+801,Suzuki,Used,Petrol,32000.0,Cultus VXL,1065000,Karachi,Cash,2016.0
+802,KIA,Used,Petrol,60000.0,Spectra,365000,Karachi,Cash,2001.0
+803,KIA,Used,Petrol,60000.0,Spectra,360000,Karachi,Cash,2001.0
+804,Honda,Used,Petrol,45000.0,City IVTEC,1375000,Karachi,Cash,2013.0
+805,Toyota,Used,CNG,80000.0,86,280000,Karachi,Cash,1987.0
+806,Suzuki,Used,CNG,460000.0,Mehran VXR,270000,Karachi,Cash,2006.0
+807,Suzuki,Used,Petrol,1.0,Margalla,250000,Karachi,Cash,1994.0
+808,Suzuki,Used,Petrol,84000.0,Swift,1040000,Karachi,Cash,2012.0
+809,Toyota,Used,Petrol,82000.0,Vitz,1350000,Karachi,Cash,2012.0
+810,Toyota,Used,CNG,100000.0,86,200000,Karachi,Cash,1986.0
+811,Suzuki,Used,Petrol,88000.0,Cultus VXR,735000,Karachi,Cash,2011.0
+812,Suzuki,Used,Petrol,76000.0,Kei,900000,Karachi,Cash,2007.0
+813,Toyota,Used,Petrol,90000.0,Vitz,875000,Karachi,Cash,2007.0
+814,Toyota,New,Petrol,94500.0,Vitz,935000,Karachi,Cash,2008.0
+815,Hyundai,Used,Petrol,84553.0,Santro,470000,Karachi,Cash,2004.0
+816,Daihatsu,Used,Petrol,80000.0,Mira,930000,Karachi,Cash,2011.0
+817,Suzuki,New,Petrol,26000.0,Swift,1465000,Karachi,Cash,2017.0
+818,Daihatsu,Used,CNG,1.0,Charade,245000,Karachi,Cash,1998.0
+819,Daihatsu,Used,CNG,100000.0,Charade,160000,Karachi,Cash,1986.0
+820,Suzuki,Used,CNG,128000.0,Cultus VXR,635000,Karachi,Cash,2008.0
+821,Suzuki,Used,Hybrid,90842.0,Alto,510000,Karachi,Cash,2009.0
+822,Toyota,Used,Petrol,74000.0,Vitz,1025000,Karachi,Cash,2008.0
+823,Honda,Used,Hybrid,120000.0,Beat,430000,Karachi,Cash,2006.0
+824,Suzuki,New,CNG,77000.0,Alto,548000,Karachi,Cash,2008.0
+825,Honda,Used,CNG,70000.0,City IVTEC,880000,Karachi,Cash,2008.0
+826,Suzuki,Used,CNG,200000.0,Cultus VXR,425000,Karachi,Cash,2005.0
+827,Suzuki,Used,CNG,12345.0,Bolan,290000,Karachi,Cash,1992.0
+828,Toyota,Used,Petrol,115000.0,Mark II,1100000,Karachi,Cash,2004.0
+829,Toyota,Used,Petrol,140000.0,Corolla GLI,925000,Karachi,Cash,2005.0
+830,Nissan,Used,Hybrid,1.0,Sunny,340000,Karachi,Cash,1989.0
+831,Toyota,Used,Petrol,90000.0,Corrolla Altis,1850000,Karachi,Cash,2014.0
+832,Honda,Used,Petrol,10000.0,Civic Prosmetic,819000,Karachi,Cash,2005.0
+833,Daihatsu,Used,Petrol,33000.0,Hijet,915000,Karachi,Cash,2014.0
+834,Suzuki,Used,Petrol,49700.0,Cultus VXR,875000,Karachi,Cash,2014.0
+835,Suzuki,Used,Petrol,64000.0,Alto,600000,Karachi,Cash,2012.0
+836,Toyota,Used,Petrol,140000.0,Corolla GLI,955000,Karachi,Cash,2005.0
+837,Daihatsu,Used,Petrol,95000.0,Cuore,495000,Karachi,Cash,2008.0
+838,Suzuki,Used,CNG,75000.0,Mehran VXR,260000,Karachi,Cash,2000.0
+839,Suzuki,Used,Petrol,80000.0,Cultus VXR,580000,Karachi,Cash,2008.0
+840,Suzuki,Used,CNG,81000.0,Alto,595000,Karachi,Cash,2010.0
+841,Suzuki,Used,CNG,123654.0,Cultus VXR,350000,Karachi,Cash,2000.0
+842,Suzuki,Used,CNG,67000.0,Alto,630000,Karachi,Cash,2012.0
+843,Hyundai,Used,CNG,162000.0,Santro,380000,Karachi,Cash,2003.0
+844,Toyota,Used,Hybrid,95000.0,Aqua,1675000,Karachi,Cash,2014.0
+845,KIA,Used,CNG,1000000.0,Pride,120000,Karachi,Cash,1989.0
+846,Toyota,Used,Petrol,96000.0,Corrolla Altis,1300000,Karachi,Cash,2010.0
+847,Honda,Used,Petrol,55500.0,Civic Prosmetic,565000,Karachi,Cash,2000.0
+848,Suzuki,Used,Petrol,59050.0,Cultus VXR,500000,Karachi,Cash,2006.0
+849,Daihatsu,Used,CNG,2.0,Cuore,430000,Karachi,Cash,2006.0
+850,Suzuki,New,CNG,82685.0,Alto,499999,Karachi,Cash,2008.0
+851,Toyota,New,Petrol,56000.0,Vitz,1300000,Karachi,Cash,2011.0
+852,Suzuki,Used,CNG,100000.0,Cultus VXR,480000,Karachi,Cash,2006.0
+853,Toyota,Used,Petrol,101000.0,Vitz,975000,Karachi,Cash,2008.0
+854,Suzuki,Used,Petrol,19800.0,Mehran VXR,550000,Karachi,Cash,2012.0
+855,Honda,Used,Petrol,50810.0,Civic VTi Oriel Prosmatec,1915000,Karachi,Cash,2013.0
+856,Toyota,Used,Petrol,87000.0,Passo,885000,Karachi,Cash,2011.0
+857,Honda,Used,Petrol,89000.0,Airwave,1025000,Karachi,Cash,2007.0
+858,Suzuki,Used,Petrol,26500.0,Mehran VXR,535000,Karachi,Cash,2011.0
+859,Toyota,New,Petrol,65000.0,Vitz,1400000,Karachi,Cash,2012.0
+860,Suzuki,Used,Petrol,52000.0,Cultus VXR,750000,Karachi,Cash,2010.0
+861,Suzuki,Used,CNG,120000.0,Baleno,430000,Karachi,Cash,2004.0
+862,Honda,Used,Petrol,84000.0,City IDSI,980000,Karachi,Cash,2006.0
+863,Suzuki,Used,CNG,123.0,Alto,515000,Karachi,Cash,2011.0
+864,KIA,New,Petrol,10000.0,Sportage,2800000,Karachi,Cash,2003.0
+865,Suzuki,Used,CNG,54000.0,Cultus VXL,765000,Karachi,Cash,2009.0
+866,Toyota,Used,Petrol,121413.0,Prado,1300000,Karachi,Cash,1993.0
+867,Suzuki,Used,CNG,75000.0,Cultus VXR,725000,Karachi,Cash,2010.0
+868,Daihatsu,Used,Petrol,72000.0,Mira,1165000,Karachi,Cash,2013.0
+869,Toyota,New,Petrol,19000.0,Vitz,1630000,Karachi,Cash,2015.0
+870,Suzuki,Used,CNG,1.0,FX,150000,Karachi,Cash,1984.0
+871,Toyota,Used,Petrol,16951.0,Corolla GLI,1965000,Karachi,Cash,2017.0
+872,Suzuki,Used,CNG,1.0,Alto,390000,Karachi,Cash,2001.0
+873,Suzuki,Used,CNG,82000.0,Cultus VXR,615000,Karachi,Cash,2007.0
+874,Toyota,Used,Petrol,10000.0,Supra,150000,Pakpattan,Cash,1969.0
+875,Suzuki,Used,CNG,16235.0,Cultus VXR,480000,Karachi,Cash,2007.0
+876,Suzuki,Used,Petrol,86000.0,Other,870000,Karachi,Cash,2003.0
+877,Mitsubishi,Used,Petrol,36600.0,Ek Wagon,1075000,Karachi,Cash,2015.0
+878,Toyota,Used,Petrol,147000.0,Corolla Axio,1465000,Karachi,Cash,2012.0
+879,Toyota,Used,Petrol,32000.0,Corolla XLI,1900000,Karachi,Cash,2017.0
+880,Suzuki,Used,CNG,45000.0,Mehran VXR,310000,Karachi,Cash,2005.0
+881,Suzuki,Used,Petrol,56000.0,Mehran VX,180000,Karachi,Cash,1996.0
+882,Daihatsu,Used,Hybrid,10000000.0,Charade,235000,Karachi,Cash,1993.0
+883,Suzuki,New,Petrol,100000.0,Bolan,620000,Karachi,Cash,2010.0
+884,Daihatsu,Used,Petrol,156000.0,Hijet,865000,Karachi,Cash,2013.0
+885,Honda,Used,CNG,1.0,Civic VTi Oriel,615000,Karachi,Cash,2001.0
+886,Honda,Used,Petrol,67000.0,Other,535000,Karachi,Cash,1998.0
+887,Suzuki,Used,CNG,30.0,Other,130000,Karachi,Cash,1989.0
+888,Suzuki,New,CNG,66000.0,Alto,465000,Karachi,Cash,2008.0
+889,Honda,Used,CNG,152000.0,Civic EXi,655000,Karachi,Cash,2002.0
+890,Daihatsu,Used,CNG,105000.0,Cuore,515000,Karachi,Cash,2008.0
+891,Daihatsu,Used,CNG,10000000.0,Charade,200000,Karachi,Cash,1986.0
+892,Toyota,Used,CNG,300000.0,Corolla GLI,870000,Karachi,Cash,2005.0
+893,Suzuki,Used,Hybrid,1500.0,Khyber,230000,Karachi,Cash,1996.0
+894,Honda,Used,Petrol,120000.0,Civic VTi,815000,Karachi,Cash,2004.0
+895,Toyota,Used,Petrol,88000.0,Vitz,1040000,Karachi,Cash,2008.0
+896,Daihatsu,New,CNG,999999.0,Charade,260000,Karachi,Cash,1986.0
+897,Nissan,Used,CNG,250000.0,Sunny,385000,Karachi,Cash,1998.0
+898,Toyota,Used,Petrol,72300.0,Corolla GLI,1245000,Karachi,Cash,2011.0
+899,Suzuki,Used,CNG,52800.0,Cultus VXR,695000,Karachi,Cash,2010.0
+900,Suzuki,Used,Petrol,25000.0,Cultus VXR,500000,Karachi,Cash,2006.0
+901,Suzuki,New,Petrol,21000.0,Cultus VXR,1125000,Karachi,Cash,2016.0
+902,Suzuki,Used,CNG,65000.0,Cultus VXR,500000,Karachi,Cash,2007.0
+903,Suzuki,Used,CNG,1.0,Khyber,120000,Karachi,Cash,1992.0
+904,Honda,New,Petrol,13000.0,BR-V,2225000,Karachi,Cash,2017.0
+905,Toyota,New,Petrol,91.0,Corolla GLI,2385000,Karachi,Cash,2018.0
+906,Honda,Used,Petrol,100000.0,City IDSI,930000,Karachi,Cash,2008.0
+907,Honda,New,Petrol,70000.0,Civic VTi Oriel Prosmatec,1450000,Karachi,Cash,2010.0
+908,Daihatsu,Used,CNG,100000.0,Charade,135000,Karachi,Cash,1986.0
+909,Suzuki,New,CNG,65000.0,Mehran VXR,355000,Karachi,Cash,2006.0
+910,Honda,New,CNG,4000.0,Accord,170000,Karachi,Cash,1983.0
+911,Honda,Used,CNG,404065.0,Other,160000,Karachi,Cash,1985.0
+912,Suzuki,Used,Hybrid,173.0,Alto,400000,Karachi,Cash,2006.0
+913,Honda,Used,Petrol,77800.0,Civic VTi Oriel Prosmatec,1200000,Karachi,Cash,2010.0
+914,Suzuki,Used,Petrol,70000.0,Cultus VXR,565000,Karachi,Cash,2006.0
+915,Toyota,Used,Petrol,111.0,Vitz,1280000,Karachi,Cash,2012.0
+916,Suzuki,Used,CNG,786.0,Alto,380000,Karachi,Cash,2007.0
+917,Honda,New,Petrol,25000.0,City Aspire,1575000,Karachi,Cash,2013.0
+918,Suzuki,New,Petrol,51000.0,Swift,1175000,Karachi,Cash,2014.0
+919,Toyota,New,Petrol,28000.0,Corolla XLI,1475000,Karachi,Cash,2012.0
+920,Toyota,New,Petrol,27000.0,Corolla GLI,1775000,Karachi,Cash,2013.0
+921,Suzuki,Used,CNG,100000.0,Mehran VX,265000,Karachi,Cash,2004.0
+922,Toyota,Used,Diesel,23000.0,Hilux,3900000,Karachi,Cash,2017.0
+923,Suzuki,Used,CNG,1.0,Khyber,240000,Karachi,Cash,1997.0
+924,Suzuki,Used,CNG,1.0,Alto,330000,Karachi,Cash,2004.0
+925,Honda,Used,Petrol,82000.0,Civic VTi Oriel Prosmatec,1725000,Karachi,Cash,2012.0
+926,Toyota,New,Petrol,22000.0,Corolla GLI,1950000,Karachi,Cash,2016.0
+927,Toyota,New,Petrol,50.0,Corolla GLI,2290000,Karachi,Cash,2018.0
+928,Suzuki,Used,Petrol,10000.0,Mehran VX,180000,Karachi,Cash,1994.0
+929,Honda,New,Petrol,26000.0,Civic VTi Oriel Prosmatec,2100000,Karachi,Cash,2014.0
+930,Suzuki,New,Petrol,37045.0,Cultus VXR,1080000,Karachi,Cash,2016.0
+931,Suzuki,New,Petrol,6000.0,Swift,1550000,Karachi,Cash,2017.0
+932,Suzuki,Used,CNG,12.0,Alto,420000,Karachi,Cash,2008.0
+933,Daihatsu,Used,Petrol,122000.0,Mira,975000,Karachi,Cash,2012.0
+934,Toyota,Used,CNG,234000.0,Corolla XLI,465000,Karachi,Cash,1989.0
+935,Suzuki,Used,Petrol,53000.0,Alto,890000,Karachi,Cash,2010.0
+936,Honda,Used,Petrol,79000.0,Accord,1190000,Karachi,Cash,2003.0
+937,Toyota,Used,Hybrid,142000.0,Prius,1950000,Karachi,Cash,2012.0
+938,Suzuki,Used,CNG,1.0,Mehran VX,165000,Karachi,Cash,1990.0
+939,Suzuki,Used,CNG,99999.0,Khyber,260000,Karachi,Cash,1998.0
+940,Toyota,Used,Petrol,21000.0,Corolla GLI,1850000,Karachi,Cash,2016.0
+941,Honda,Used,CNG,90000.0,Civic EXi,465000,Karachi,Cash,1997.0
+942,Suzuki,Used,Petrol,20000.0,Cultus VXL,600000,Karachi,Cash,2007.0
+943,Suzuki,Used,CNG,72000.0,Alto,550000,Karachi,Cash,2009.0
+944,Daihatsu,Used,CNG,10000.0,Charade,175000,Karachi,Cash,1986.0
+945,Honda,Used,Petrol,110000.0,Acty,600000,Karachi,Cash,2012.0
+946,Toyota,Used,Petrol,93000.0,Corolla XLI,1230000,Karachi,Cash,2011.0
+947,Toyota,Used,CNG,99999.0,Other,130000,Karachi,Cash,1973.0
+948,Mitsubishi,Used,Petrol,58400.0,EK Custom,1110000,Karachi,Cash,2014.0
+949,Toyota,New,Petrol,48000.0,Vitz,1425000,Karachi,Cash,2012.0
+950,Daihatsu,Used,Petrol,99999.0,Charade,250000,Karachi,Cash,1984.0
+951,Toyota,Used,Petrol,70000.0,Aqua,1800000,Karachi,Cash,2017.0
+952,Suzuki,Used,Petrol,9999.0,Liana,495000,Karachi,Cash,2006.0
+953,Toyota,Used,Diesel,63000.0,Corolla GLI,1650000,Karachi,Cash,2015.0
+954,Toyota,Used,Petrol,85000.0,Lite Ace,1275786,Karachi,Cash,2009.0
+955,Suzuki,Used,Petrol,100000.0,Every Wagon,795000,Karachi,Cash,2011.0
+956,Toyota,Used,Petrol,65000.0,Passo,880000,Karachi,Cash,2007.0
+957,Toyota,Used,CNG,100000.0,86,180000,Karachi,Cash,2018.0
+958,Honda,New,Petrol,30000.0,Civic Prosmetic,1475000,Karachi,Cash,2010.0
+959,Toyota,Used,Petrol,130000.0,Passo,800000,Karachi,Cash,2008.0
+960,Suzuki,New,CNG,100000.0,Mehran VX,315000,Karachi,Cash,2004.0
+961,Toyota,New,Petrol,56000.0,Rush,1975000,Karachi,Cash,2009.0
+962,Toyota,Used,Petrol,50000.0,Corolla GLI,1450000,Karachi,Cash,2011.0
+963,Suzuki,Used,Hybrid,174000.0,Alto,360000,Karachi,Cash,2004.0
+964,Daihatsu,Used,Petrol,185485.0,Charade,140000,Karachi,Cash,1993.0
+965,Suzuki,New,Petrol,52500.0,Mehran VX,615000,Karachi,Cash,2017.0
+966,Honda,Used,CNG,160000.0,Civic Prosmetic,545000,Karachi,Cash,2000.0
+967,Other Brands,Used,Diesel,1111111.0,Other,550000,Lasbela,Cash,1952.0
+968,Nissan,Used,CNG,100000.0,120 Y,170000,Karachi,Cash,1979.0
+969,Suzuki,Used,Petrol,100000.0,Liana,675000,Karachi,Cash,2008.0
+970,Toyota,Used,Petrol,138000.0,Corrolla Altis,960000,Karachi,Cash,2004.0
+971,Toyota,Used,Petrol,1.0,Passo,880000,Karachi,Cash,2007.0
+972,Suzuki,Used,Petrol,90000.0,Cultus VXL,390000,Karachi,Cash,2001.0
+973,Suzuki,Used,CNG,75000.0,Alto,670000,Karachi,Cash,2008.0
+974,Toyota,Used,Petrol,63000.0,Corolla XLI,1080000,Karachi,Cash,2010.0
+975,Suzuki,Used,Petrol,90000.0,Mehran VX,470000,Karachi,Cash,2010.0
+976,Daihatsu,Used,Petrol,74000.0,Mira,1250000,Karachi,Cash,2018.0
+977,Suzuki,Used,Petrol,1.0,Cultus VXR,870000,Karachi,Cash,2015.0
+978,Suzuki,Used,CNG,96369.0,Margalla,280000,Karachi,Cash,1993.0
+979,Suzuki,Used,CNG,68000.0,Alto,615000,Karachi,Cash,2011.0
+980,Suzuki,Used,CNG,10000.0,Bolan,145000,Karachi,Cash,1984.0
+981,Daihatsu,New,Petrol,96000.0,Mira,1220000,Karachi,Cash,2015.0
+982,Toyota,Used,Petrol,10000.0,Vitz,900000,Karachi,Cash,2005.0
+983,Suzuki,New,Petrol,27000.0,Mehran VXR,725000,Karachi,Cash,2017.0
+984,Honda,Used,CNG,5000.0,Civic EXi,130000,Karachi,Cash,1987.0
+985,Suzuki,Used,Petrol,92000.0,Cultus VXR,900000,Karachi,Cash,2014.0
+986,Suzuki,New,Petrol,31000.0,Cultus VXR,1025000,Karachi,Cash,2014.0
+987,Suzuki,New,CNG,75000.0,Bolan,490000,Karachi,Cash,2008.0
+988,Toyota,Used,Petrol,75000.0,Corolla XLI,1225000,Karachi,Cash,2009.0
+989,Toyota,Used,Petrol,180000.0,86,2200000,Karachi,Cash,1986.0
+990,Mitsubishi,Used,Petrol,10000.0,Pajero Mini,360000,Karachi,Cash,1996.0
+991,Honda,New,Petrol,37000.0,Civic VTi,1350000,Karachi,Cash,2011.0
+992,Honda,Used,Petrol,150000.0,City IDSI,840000,Karachi,Cash,2004.0
+993,Suzuki,Used,CNG,810.0,Cultus VXR,520000,Karachi,Cash,2007.0
+994,Honda,Used,Petrol,61500.0,Civic EXi,800000,Karachi,Cash,2005.0
+995,Honda,Used,Petrol,66000.0,Civic EXi,875000,Karachi,Cash,2006.0
+996,Suzuki,Used,CNG,75000.0,Mehran VX,375000,Karachi,Cash,2010.0
+997,Suzuki,Used,Petrol,58000.0,Swift,1010000,Karachi,Cash,2010.0
+998,Toyota,Used,Petrol,70000.0,Corolla XLI,1140000,Karachi,Cash,2011.0
+999,Suzuki,Used,Petrol,80000.0,Cultus VXR,530000,Karachi,Cash,2007.0
