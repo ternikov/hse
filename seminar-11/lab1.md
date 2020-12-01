@@ -4,7 +4,7 @@ description: Week 30.11 - 05.12
 
 # LAB1
 
-> [Lab's organization process](../../course-overview/grading/lab.md)
+> [Lab's organization process](../course-overview/grading/lab.md)
 
 ### Slots for Lab1
 
@@ -16,7 +16,7 @@ You \(and your team\) can choose only one Slot to submit your Lab1.
 | [09:30-10:50]() | [09:30-10:50]() |  | 09:30-10:50 |
 | [11:10-12:30]() | [11:10-12:30]() | 11:10-12:30 | 11:10-12:30 |
 |  | [13:00-14:20]() | 13:00-14:20 | 13:00-14:20 |
-|  | [14:40-16:00](lab-1.-tuesday-14-40.md) | 14:40-16:00 | 14:40-16:00 |
+|  | [14:40-16:00]() | 14:40-16:00 | 14:40-16:00 |
 |  |  |  | 16:20-17:40 |
 
 {% hint style="info" %}
