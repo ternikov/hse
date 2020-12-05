@@ -148,10 +148,10 @@ description: All deadlines in UTC+3 (Moscow timezone)
     </tr>
     <tr>
       <td style="text-align:left">11</td>
-      <td style="text-align:left"><a href="../seminar-11/lab1.md">Exploratory Data Analysis</a>
+      <td style="text-align:left"><a href="../seminar-11/lab1/">Exploratory Data Analysis</a>
       </td>
       <td style="text-align:left">
-        <p><a href="../seminar-11/lab1.md">LAB1</a>
+        <p><a href="../seminar-11/lab1/">LAB1</a>
         </p>
         <p>(week 30.11 - 05.12)</p>
       </td>
