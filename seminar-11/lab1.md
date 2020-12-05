@@ -17,7 +17,7 @@ You \(and your team\) can choose only one Slot to submit your Lab1.
 | [11:10-12:30]() | [11:10-12:30]() | [11:10-12:30]() | [11:10-12:30]() |
 |  | [13:00-14:20]() | [13:00-14:20]() | [13:00-14:20]() |
 |  | [14:40-16:00]() | [14:40-16:00]() | [14:40-16:00]() |
-|  |  |  | 16:20-17:40 |
+|  |  |  | [16:20-17:40]() |
 
 {% hint style="info" %}
 **Provide your group members' names inside the file. Save all your code and code's outputs in the file \(\*.ipynb or \*.pdf is preferred\).**
