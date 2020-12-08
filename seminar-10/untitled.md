@@ -4,7 +4,7 @@ description: Web Applications with Telegram Bot API
 
 # 10: In-Class
 
-![](../.gitbook/assets/25231.png) [Starter code and tasks here](https://raw.githubusercontent.com/ternikov/hse/gh-pages/hw5/Seminar10.ipynb)
+![](../.gitbook/assets/25231.png) [Starter code and tasks here](https://nbviewer.jupyter.org/github/ternikov/hse/blob/gh-pages/hw5/Seminar10.ipynb)
 
 {% hint style="info" %}
 **Recommended Hometask**: deploy the financial bot from the file above on the web.
