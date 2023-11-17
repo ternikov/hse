@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- saved from url=(0189)https://static.bumlam.com/pixel.html?url=aHR0cHM6Ly9yZWRpcmVjdC5mcm9udGVuZC53ZWJvcmFtYS5mci9yZD91cmw9aHR0cHMlM0ElMkYlMkZzeW5jLmJ1bWxhbS5jb20lMkYlM0ZzcmMlM0R3YnIxJTI2dWlkJTNEe1dFQk9fQ0lEfQ** -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="referrer" content="no-referrer">
+  <title>Pixel sender</title>
+  <script type="text/javascript">
+    function parse_query_string(query) {
+      var vars = query.split("&");
+      var query_string = {};
+      for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split("=");
+        var key = decodeURIComponent(pair[0]);
+        var value = decodeURIComponent(pair[1]);
+        // If first entry with this name
+        if (typeof query_string[key] === "undefined") {
+          query_string[key] = decodeURIComponent(value);
+          // If second entry with this name
+        } else if (typeof query_string[key] === "string") {
+          var arr = [query_string[key], decodeURIComponent(value)];
+          query_string[key] = arr;
+          // If third or later entry with this name
+        } else {
+          query_string[key].push(decodeURIComponent(value));
+        }
+      }
+      return query_string;
+    }
+
+    function sendPixel(url) {
+      var im = new Image;
+      im.src = url;
+    }
+
+    function decodesafe64 (data2decode) {
+        var retdata = data2decode
+                        .replace(/_/g, '\/')
+                        .replace(/\-/g, '+')
+                        .replace(/\*/g, '=');
+        return atob(retdata);
+    }
+    
+    
+    var query = window.location.search.substring(1);
+    var qs = parse_query_string(query);
+    var sendurl = decodesafe64(qs.url);
+    sendPixel(sendurl);
+  </script>
+</head>
+<body>
+
+
+</body></html>

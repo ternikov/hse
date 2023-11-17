@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://service.s7.ru/storage.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Storage</title>
+    <script>
+		document.domain = 'service.s7.ru';
+		// document.domain = 'service.s7.ru';
+
+		window.onmessage = function(e) {
+		    var origin = document.createElement('a'),
+		        subdomain, payload, action = {}, response;
+
+			function error(message, key, method) {
+				response = {
+					success: false,
+					method: method,
+					error: message,
+					key: key
+				};
+			}
+
+			origin.href = e.origin;
+		    subdomain = origin.hostname.substr(-6) === '.s7.ru' || origin.hostname.substr(-9) === 'localhost' || origin.hostname.substr(-18) === '.cyprusairways.com';
+
+			action.set = function() {
+				try {
+					localStorage.setItem(payload.key, JSON.stringify(payload.value));
+					if (payload.expTime) localStorage.setItem(payload.key + 'ExpTime', payload.expTime);
+					removeCookie(payload.key, 'set');
+					response = {success: true, key: payload.key, method: 'set'};
+				} catch (e) {
+					error(e.message, payload.key, 'set');
+				}
+			};
+
+			action.get = function() {
+				var expTime;
+
+				try {
+					expTime = +localStorage.getItem(payload.key + 'ExpTime');
+				} catch (e) {
+					error(e.message, payload.key, 'get');
+				}
+
+				if (expTime && expTime < new Date().getTime()) {
+					localStorage.removeItem(payload.key);
+					localStorage.removeItem(payload.key + 'ExpTime');
+					error('item expired', payload.key, 'get');
+				}
+
+				try {
+					response = {success: true, key: payload.key, value: JSON.parse(localStorage.getItem(payload.key)), method: 'get'};
+				} catch (e) {
+					error(e.message, payload.key, 'get');
+				}
+			};
+			action.remove = function() {
+				try {
+					localStorage.removeItem(payload.key);
+					if (localStorage.getItem(payload.key + 'ExpTime')) localStorage.removeItem(payload.key + 'ExpTime');
+					response = {success: true, key: payload.key, method: 'remove'};
+				} catch (e) {
+					error(e.message, payload.key, 'remove');
+				}
+			};
+
+			if (!subdomain) return false;
+
+			try {
+		        payload = JSON.parse(e.data);
+		    } catch (e) {
+		        return false;
+		    }
+
+			if (!action.hasOwnProperty(payload.method)) return false;
+
+			action[payload.method]();
+			if (payload.callback) response.callback = payload.callback;
+			parent.postMessage(response, '*');
+		};
+    </script>
+</head>
+<body>
+
+
+</body></html>
